@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="/static/styles/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>WhatIsGoogledMore</title>
+</head>
+<body>
+
+<header>
+    <div class="navbar px-6 shadow-sm">
+        <div class="navbar-start text-white">
+            <div class="dropdown">
+                <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+                         stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M4 6h16M4 12h8m-8 6h16"/>
+                    </svg>
+                </div>
+                <ul tabindex="0"
+                    class="menu menu-sm dropdown-content bg-base-100 text-black rounded-box z-1 mt-3 w-52 p-2 shadow">
+                    {% if current_user.is_authenticated %}
+                    <li><a href="/play">Начать новую игру</a></li>
+                    <li><a href="/top">Рейтинг</a></li>
+                    <li><a href="/exchange">Обменять очки</a></li>
+                    {% else %}
+                    <li><a href="/login">Войти</a></li>
+                    <li><a href="/register">Зарегистрироваться</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+            <a class="btn btn-ghost text-xl">WhatIsGoogledMore</a>
+        </div>
+        <div class="navbar-center text-white hidden lg:flex">
+            {% if current_user.is_authenticated %}
+            <ul class="menu menu-horizontal px-1">
+                <li><a href="/play">Начать новую игру</a></li>
+                <li><a href="/top">Рейтинг</a></li>
+                <li><a href="/exchange">Обменять очки</a></li>
+            </ul>
+            {% endif %}
+        </div>
+        <div class="navbar-end hidden lg:flex">
+            {% if current_user.is_authenticated %}
+            <a href="/profile" class="btn btn-primary rounded-full">Мой профиль</a>
+            {% else %}
+            <a href="/register" class="btn btn-secondary rounded-full">Зарегистрироваться</a>
+            <a href="/login" class="btn btn-primary rounded-full ml-2">Войти</a>
+            {% endif %}
+        </div>
+    </div>
+</header>
+
+<!-- Page content -->
+<main role="main">
+    {% block content %}{% endblock %}
+</main>
+</body>
+</html>

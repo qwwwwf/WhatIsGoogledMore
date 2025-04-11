@@ -1,0 +1,11 @@
+:root {
+    --color-primary: #FFD609
+}
+
+.btn-primary {
+    color: black;
+}
+
+.navbar {
+    background-color: #7C2FF0;
+}
