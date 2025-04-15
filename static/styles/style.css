@@ -1,5 +1,14 @@
 :root {
-    --color-primary: #FFD609
+    --color-primary: #FFD609;
+}
+
+.btn {
+    transition: transform;
+    transition-duration: .3s;
+
+    &:active {
+        transform: scale(0.9);
+    }
 }
 
 .btn-primary {
@@ -8,4 +17,16 @@
 
 .navbar {
     background-color: #7C2FF0;
+    height: 80px;
+}
+
+.menu > li > a {
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.hero {
+    background: #7C2FF0;
+    background: linear-gradient(180deg, rgba(124, 47, 240, 1) 0%, rgba(255, 214, 9, 1) 100%);
 }

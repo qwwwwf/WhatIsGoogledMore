@@ -1,18 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div
-        class="hero min-h-screen"
-        style="background-image: url(/static/images/bg.png);">
-    <div class="hero-overlay"></div>
+<div class="hero min-h-screen">
     <div class="hero-content text-neutral-content text-center">
-        <div class="max-w-md">
+        <div class="max-w-md flex flex-col items-center">
             <h1 class="mb-5 text-3xl font-bold md:text-5xl">WhatIsGoogledMore</h1>
             <p class="mb-5 text-xl">
-                Предлагаем сыграть вам в интересную игру "Что гуглят больше?". Ваша задача - правильно выбрать наиболее
+                Предлагаем сыграть вам в интересную игру "Что гуглят больше?". Ваша задача - выбрать наиболее
                 популярный запрос в интернете.
             </p>
-            <button class="btn btn-primary btn-xl rounded-full px-10 py-7">Начать игру</button>
+            <a href="/play" class="btn btn-primary btn-xl rounded-2xl px-10 py-7">Начать игру</a>
         </div>
     </div>
 </div>
