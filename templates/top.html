@@ -27,12 +27,14 @@
                     </thead>
                     <tbody>
                     <!-- rows -->
-                    <tr>
-                        <th>1</th>
-                        <td>Cy Ganderton</td>
-                        <td>Quality Control Specialist</td>
-                        <td>Blue</td>
-                    </tr>
+                    {% for user in users %}
+                        <tr>
+                            <th>{{ user[0] }}</th>
+                            <td>{{ user[1] }}</td>
+                            <td>{{ user[2] }}</td>
+                            <td>{{ user[3] }}</td>
+                        </tr>
+                    {% endfor %}
                     </tbody>
                 </table>
             </div>

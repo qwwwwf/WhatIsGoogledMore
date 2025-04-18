@@ -4,8 +4,9 @@ from dotenv import load_dotenv
 from data import db_session
 from data.user_model import User
 
-from flask import Flask, render_template, redirect
-from flask_login import LoginManager, logout_user, login_required, login_user
+from flask_restful import Api
+from flask import Flask, render_template, redirect, request
+from flask_login import LoginManager, logout_user, login_required, login_user, current_user
 
 from forms.login_form import LoginForm
 from forms.register_form import RegisterForm
@@ -15,6 +16,9 @@ load_dotenv()
 # Flask app init
 app = Flask(__name__)
 app.config['SECRET_KEY'] = getenv('SECRET_KEY', '0b2d776d7d3e50323e285c30f9c3afce')
+
+# API
+api = Api(app)
 
 # Database init
 db_session.global_init('db/data.db')
@@ -38,7 +42,7 @@ def logout():
 
 
 # Routes
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index_route():
     return render_template('index.html')
 
@@ -89,12 +93,34 @@ def register_route():
 
 @app.route('/profile', methods=['GET', 'POST'])
 def profile_route():
-    return render_template('profile.html')
+    games_data = []
+
+    for game in current_user.games:
+        games_data.append([game.id, game.total_rounds, game.correctly_rounds, game.points_gave])
+
+    return render_template(
+        'profile.html',
+        games=games_data,
+        games_count=len(games_data)
+    )
 
 
 @app.route('/top', methods=['GET', 'POST'])
 def top_route():
-    return render_template('top.html')
+    db_sess = db_session.create_session()
+    users = db_sess.query(User).order_by(User.stars.desc()).limit(15)
+    top_data = []
+
+    for user in users:
+        top_data.append([user.username, user.stars, len(user.games)])
+
+    for i in range(len(top_data)):
+        top_data[i].insert(0, i + 1)
+
+    return render_template(
+        'top.html',
+        users=top_data
+    )
 
 
 @app.route('/exchange', methods=['GET', 'POST'])

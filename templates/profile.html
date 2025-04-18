@@ -26,10 +26,40 @@
                 Очки: {{ current_user.points }}
             </span>
             </div>
+        </div>
 
+        <div class="flex flex-col justify-center gap-6 mt-10">
             <h2 class="text-2xl mt-8 md:text-3xl font-semibold">История игр</h2>
 
+            <div class="overflow-x-auto rounded-box border border-base">
+                <table class="table text-lg">
+                    <!-- head -->
+                    <thead>
+                    <tr class="text-lg text-white">
+                        <th>ID</th>
+                        <th>Раундов</th>
+                        <th>Правильных ответов</th>
+                        <th>Дано очков</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <!-- rows -->
+                    {% for game in games %}
+                    <tr>
+                        <th>game[0]</th>
+                        <td>game[1]</td>
+                        <td>game[2]</td>
+                        <td>game[5]</td>
+                    </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+                {% if games_count == 0 %}
+                Ваша история игр пуста
+                {% endif %}
+            </div>
         </div>
+
     </div>
 </div>
 {% endblock %}
