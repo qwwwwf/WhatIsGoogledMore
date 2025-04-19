@@ -23,7 +23,7 @@
                   <path d="M12 16.5c2.685 0 5.19-.586 7.078-1.609a8.282 8.282 0 0 0 1.897-1.384c.016.121.025.244.025.368 0 2.692-4.03 4.875-9 4.875s-9-2.183-9-4.875c0-.124.009-.247.025-.368a8.284 8.284 0 0 0 1.897 1.384C6.809 15.914 9.315 16.5 12 16.5Z"/>
                   <path d="M12 20.25c2.685 0 5.19-.586 7.078-1.609a8.282 8.282 0 0 0 1.897-1.384c.016.121.025.244.025.368 0 2.692-4.03 4.875-9 4.875s-9-2.183-9-4.875c0-.124.009-.247.025-.368a8.284 8.284 0 0 0 1.897 1.384C6.809 19.664 9.315 20.25 12 20.25Z"/>
                 </svg>
-                20
+                {{exchange_rate}}
                 </span>
                 <span class="text-5xl">=</span>
                 <span class="flex items-center gap-1 text-2xl font-bold">
@@ -37,16 +37,15 @@
                 </span>
             </div>
 
-
             <button id="btnExchange" class="btn btn-lg rounded-full">Обменять {{
-                current_user.points // 20 }}
+                current_user.points // exchange_rate }}
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                      class="size-6 text-primary">
                     <path fill-rule="evenodd"
                           d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z"
                           clip-rule="evenodd"/>
                 </svg>
-                за {{ (current_user.points // 20) * 20 }}
+                за {{ (current_user.points // exchange_rate) * exchange_rate }}
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                      class="size-6 text-lime-400">
                     <path d="M21 6.375c0 2.692-4.03 4.875-9 4.875S3 9.067 3 6.375 7.03 1.5 12 1.5s9 2.183 9 4.875Z"/>
@@ -57,20 +56,54 @@
             </button>
         </div>
 
-        <div class="flex flex-col gap-2 mt-50 md:mt-30">
-            <h2 class="text-2xl mt-8 md:text-3xl font-semibold">Что дают звезды?</h2>
-            <p class="text-xl">Звезды - это внутриигровая валюта, позволяющая проходить игроку выше в рейтинговой
-                таблице</p>
+        <div class="mt-90 md:mt-60">
+            <div class="flex flex-col gap-2">
+                <h2 class="text-2xl mt-8 md:text-3xl font-semibold">Что дают звезды?</h2>
+                <p class="text-xl">Звезды - это внутриигровая валюта, позволяющая проходить игроку выше в рейтинговой
+                    таблице</p>
+            </div>
+
+            <div class="flex flex-col gap-2">
+                <h2 class="text-2xl mt-8 md:text-3xl font-semibold">История обменов</h2>
+
+                <div class="overflow-x-auto rounded-box border border-base">
+                    <table class="table text-lg">
+                        <!-- head -->
+                        <thead>
+                        <tr class="text-lg text-white">
+                            <th>Получено звезд</th>
+                            <th>Потрачено очков</th>
+                            <th>Дата</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <!-- rows -->
+                        {% for exchange in exchange_history %}
+                        <tr>
+                            <th>{{ exchange["stars_gave"] }}</th>
+                            <td>{{ exchange["points_spent"] }}</td>
+                            <td>{{ exchange["created_at"] }}</td>
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 
 <script>
     const btnExchange = document.querySelector('#btnExchange')
-    btnExchange.addEventListener('click', event => {
-        const response = fetch(`127.0.0.1:8080/api/users/${current_user.id}/exchange-points`)
+    btnExchange.addEventListener('click', async (event) => {
+        const response = await fetch(
+        '/api/users/{{current_user.id}}/exchange-points',
+        { method: "POST" }
+        )
+
         if (!response.ok) {
             alert('Произошла неизвестная ошибка при попытке обменять очки')
+            return
         }
 
         navigation.reload()

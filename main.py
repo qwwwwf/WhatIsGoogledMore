@@ -1,11 +1,13 @@
 from os import getenv
 from dotenv import load_dotenv
 
+from api.user_api import UserResource
+from config import STAR_EXCHANGE_RATE
 from data import db_session
 from data.user_model import User
 
 from flask_restful import Api
-from flask import Flask, render_template, redirect, request
+from flask import Flask, render_template, redirect
 from flask_login import LoginManager, logout_user, login_required, login_user, current_user
 
 from forms.login_form import LoginForm
@@ -19,6 +21,7 @@ app.config['SECRET_KEY'] = getenv('SECRET_KEY', '0b2d776d7d3e50323e285c30f9c3afc
 
 # API
 api = Api(app)
+api.add_resource(UserResource, '/api/users/<user_id>/<action>')
 
 # Database init
 db_session.global_init('db/data.db')
@@ -125,7 +128,11 @@ def top_route():
 
 @app.route('/exchange', methods=['GET', 'POST'])
 def exchange_route():
-    return render_template('exchange.html')
+    return render_template(
+        'exchange.html',
+        exchange_history=current_user.exchange_history,
+        exchange_rate=STAR_EXCHANGE_RATE
+    )
 
 
 # App run
