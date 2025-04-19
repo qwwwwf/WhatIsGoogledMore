@@ -2,8 +2,8 @@
 
 {% block content %}
 <div class="hero min-h-screen">
-    <div class="hero-content text-neutral-content text-center">
-        <div class="absolute top-60 max-w-md flex flex-col gap-8">
+    <div class="flex flex-col justify-center items-center text-neutral-content gap-8">
+        <div class="flex flex-col gap-6">
             <h1 class="flex flex-col gap-1 items-center text-4xl font-bold md:text-5xl">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                      class="size-14 text-lime-400">
@@ -56,7 +56,7 @@
             </button>
         </div>
 
-        <div class="mt-90 md:mt-60">
+        <div class="text-center flex flex-col gap-4">
             <div class="flex flex-col gap-2">
                 <h2 class="text-2xl mt-8 md:text-3xl font-semibold">Что дают звезды?</h2>
                 <p class="text-xl">Звезды - это внутриигровая валюта, позволяющая проходить игроку выше в рейтинговой
@@ -79,7 +79,7 @@
                         <tbody>
                         <!-- rows -->
                         {% for exchange in exchange_history %}
-                        <tr>
+                        <tr class="text-white">
                             <th>{{ exchange["stars_gave"] }}</th>
                             <td>{{ exchange["points_spent"] }}</td>
                             <td>{{ exchange["created_at"] }}</td>
@@ -90,6 +90,7 @@
                 </div>
             </div>
         </div>
+
     </div>
 </div>
 

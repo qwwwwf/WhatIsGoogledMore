@@ -89,7 +89,7 @@ def register_route():
         user.set_password(form.password.data)
         db_sess.add(user)
         db_sess.commit()
-        return redirect('/login')
+        return redirect('/')
 
     return render_template('register.html', form=form)
 
@@ -130,9 +130,13 @@ def top_route():
 def exchange_route():
     return render_template(
         'exchange.html',
-        exchange_history=current_user.exchange_history,
+        exchange_history=current_user.exchange_history['exchanges'],
         exchange_rate=STAR_EXCHANGE_RATE
     )
+
+@app.route('/play', methods=['GET', 'POST'])
+def play_route():
+    return render_template('game.html')
 
 
 # App run

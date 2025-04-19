@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="flex flex-col w-full h-[92vh] md:flex-row">
+    <div class="absolute bg-white px-7 py-3 text-lg rounded-2xl mt-6 left-1/2 -translate-x-1/2 shadow-lg">
+        Что гуглят больше?
+        <b>Коты</b> vs <b>Собаки</b>
+    </div>
+    <div class="flex justify-center items-center w-[50%] h-full text-6xl bg-primary cursor-pointer transition-all hover:text-7xl">
+        <span>Коты</span>
+    </div>
+    <div class="flex justify-center items-center w-[50%] h-full text-6xl bg-secondary cursor-pointer transition-all hover:text-7xl">
+        <span>Собаки</span>
+    </div>
+</div>
+
+<script></script>
+{% endblock %}

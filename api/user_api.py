@@ -1,7 +1,10 @@
+import datetime
+
 from flask import jsonify
 from flask_restful import Resource, reqparse, abort
 
 from flask_login import current_user
+from sqlalchemy.orm.attributes import flag_modified
 
 from config import STAR_EXCHANGE_RATE
 from data import db_session
@@ -34,13 +37,25 @@ class UserResource(Resource):
                 if current_user.points < STAR_EXCHANGE_RATE:
                     return abort(400, message='Points value should be more 0')
 
+                stars_gave = current_user.points // STAR_EXCHANGE_RATE
                 stars_price = ((current_user.points // STAR_EXCHANGE_RATE) * STAR_EXCHANGE_RATE)
-                session.query(User).filter(User.id == user_id).update({
-                    'stars': User.stars + (current_user.points // STAR_EXCHANGE_RATE),
-                    'points': User.points - stars_price,
-                    'points_spent': User.points_spent + stars_price
+
+                user = session.query(User).get(user_id)
+                user.stars += stars_gave
+                user.points -= stars_price
+                user.points_spent += stars_price
+
+                current_history = user.exchange_history['exchanges']
+                current_history.append({
+                    'stars_gave': stars_gave,
+                    'points_spent': stars_price,
+                    'created_at': str(datetime.datetime.now())
                 })
+
+                user.exchange_history = {'exchanges': current_history}
+                flag_modified(user, 'exchange_history')
                 session.commit()
+
                 return jsonify({'success': 'OK'})
 
         abort(404, message='Unknown error')

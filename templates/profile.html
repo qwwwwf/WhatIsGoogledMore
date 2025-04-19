@@ -2,11 +2,12 @@
 
 {% block content %}
 <div class="hero min-h-screen">
-    <div class="hero-content text-neutral-content text-center">
-        <div class="absolute top-60 max-w-md flex flex-col gap-8">
+    <div class="flex flex-col justify-center items-center text-neutral-content gap-8 text-center">
+        <div class="absolute top-60 max-w-md flex flex-col gap-6">
             <h1 class="text-4xl font-bold md:text-5xl">{{ current_user.username }}</h1>
-            <div class="flex gap-5">
-            <span class="flex flex-col items-center text-xl border-2 border-white p-4 rounded-2xl">
+            <div class="flex w-full flex-col lg:flex-row">
+                <div class="card border-2 border-white rounded-box grid h-32 grow place-items-center">
+                    <span class="flex flex-col items-center text-xl px-6">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                      class="size-6 text-primary">
                     <path fill-rule="evenodd"
@@ -15,7 +16,10 @@
                 </svg>
                 Звезды: {{ current_user.stars }}
             </span>
-                <span class="flex flex-col items-center text-xl border-2 border-white p-4 rounded-2xl">
+                </div>
+                <div class="divider lg:divider-horizontal"></div>
+                <div class="card border-2 border-white rounded-box grid h-32 grow place-items-center">
+                    <span class="flex flex-col items-center text-xl px-6">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                      class="size-6 text-lime-400">
                   <path d="M21 6.375c0 2.692-4.03 4.875-9 4.875S3 9.067 3 6.375 7.03 1.5 12 1.5s9 2.183 9 4.875Z"/>
@@ -25,10 +29,11 @@
                 </svg>
                 Очки: {{ current_user.points }}
             </span>
+                </div>
             </div>
         </div>
 
-        <div class="flex flex-col justify-center gap-6 mt-10">
+        <div class="flex flex-col justify-center gap-4">
             <h2 class="text-2xl mt-8 md:text-3xl font-semibold">История игр</h2>
 
             <div class="overflow-x-auto rounded-box border border-base">

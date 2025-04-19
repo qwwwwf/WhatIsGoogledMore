@@ -24,7 +24,7 @@ class User(SqlAlchemyBase, UserMixin):
     points = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=0)
     points_spent = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=0)
     hashed_password = sqlalchemy.Column(sqlalchemy.String, nullable=False)
-    exchange_history = sqlalchemy.Column(sqlalchemy.JSON, nullable=False, default={})
+    exchange_history = sqlalchemy.Column(sqlalchemy.JSON, nullable=False, default={'exchanges': []})
     created_date = sqlalchemy.Column(sqlalchemy.DateTime, default=datetime.datetime.now)
 
     games = orm.relationship('Game', back_populates='user')

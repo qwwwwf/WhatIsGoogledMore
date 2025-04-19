@@ -16,7 +16,7 @@
 }
 
 .navbar {
-    background-color: #7C2FF0;
+    background-color: #7c3aed;
     height: 80px;
 }
 
@@ -27,6 +27,6 @@
 }
 
 .hero {
-    background: #7C2FF0;
-    background: linear-gradient(180deg, rgba(124, 47, 240, 1) 0%, rgba(255, 214, 9, 1) 100%);
+    background: #7c3aed;
+    background: linear-gradient(180deg, rgba(124, 58, 237, 1) 0%, rgba(255, 214, 9, 1) 100%);
 }
