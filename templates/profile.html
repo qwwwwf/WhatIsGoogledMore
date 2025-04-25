@@ -3,7 +3,7 @@
 {% block content %}
 <div class="hero min-h-screen">
     <div class="flex flex-col justify-center items-center text-neutral-content gap-8 text-center">
-        <div class="absolute top-60 max-w-md flex flex-col gap-6">
+        <div class="flex flex-col gap-6">
             <h1 class="text-4xl font-bold md:text-5xl">{{ current_user.username }}</h1>
             <div class="flex w-full flex-col lg:flex-row">
                 <div class="card border-2 border-white rounded-box grid h-32 grow place-items-center">
@@ -51,10 +51,10 @@
                     <!-- rows -->
                     {% for game in games %}
                     <tr>
-                        <th>game[0]</th>
-                        <td>game[1]</td>
-                        <td>game[2]</td>
-                        <td>game[5]</td>
+                        <th>{{ game[0] }}</th>
+                        <td>{{ game[1] }}</td>
+                        <td>{{ game[2] }}</td>
+                        <td>{{ game[3] }}</td>
                     </tr>
                     {% endfor %}
                     </tbody>

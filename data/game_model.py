@@ -15,7 +15,7 @@ class Game(SqlAlchemyBase):
     )
     total_rounds = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=10)
     correctly_rounds = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=0)
-    wrongly_rounds = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=0)
+    wrongly_rounds = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=1)
     trends = sqlalchemy.Column(sqlalchemy.PickleType, nullable=False, default={})
     points_gave = sqlalchemy.Column(sqlalchemy.Integer, nullable=False, default=0)
     created_date = sqlalchemy.Column(sqlalchemy.DateTime, default=datetime.datetime.now)

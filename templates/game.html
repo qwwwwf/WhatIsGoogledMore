@@ -2,17 +2,103 @@
 
 {% block content %}
 <div class="flex flex-col w-full h-[92vh] md:flex-row">
-    <div class="absolute bg-white px-7 py-3 text-lg rounded-2xl mt-6 left-1/2 -translate-x-1/2 shadow-lg">
+    <div id="trendsVersusText"
+         class="absolute bg-white px-7 py-3 text-lg rounded-2xl mt-6 left-1/2 -translate-x-1/2 shadow-lg">
         Что гуглят больше?
-        <b>Коты</b> vs <b>Собаки</b>
+        <b>?</b> vs <b>?</b>
     </div>
-    <div class="flex justify-center items-center w-[50%] h-full text-6xl bg-primary cursor-pointer transition-all hover:text-7xl">
-        <span>Коты</span>
+    <div id="trend-1"
+         class="flex justify-center items-center w-[50%] h-full text-6xl bg-primary cursor-pointer transition-all hover:text-7xl">
+        <span>?</span>
     </div>
-    <div class="flex justify-center items-center w-[50%] h-full text-6xl bg-secondary cursor-pointer transition-all hover:text-7xl">
-        <span>Собаки</span>
+    <div id="trend-2"
+         class="flex justify-center items-center w-[50%] h-full text-6xl bg-secondary cursor-pointer transition-all hover:text-7xl">
+        <span>?</span>
     </div>
 </div>
 
-<script></script>
+<script>
+    const firstTrend = document.querySelector('#trend-1')
+    const secondTrend = document.querySelector('#trend-2')
+    const trendsVersusText = document.querySelector('#trendsVersusText')
+
+    const gameStats = {
+        user_id: {{ current_user.id }},
+        trends: [],
+        points_gave: 0,
+    }
+
+    let trends;
+    let correct;
+
+    const getTrends = () => fetch('/api/trend', { method: "GET" }
+    ).then(async (response) => {
+        const result = await response.json()
+
+        firstTrend.innerHTML = result[1][1]
+        secondTrend.innerHTML = result[2][1]
+        trendsVersusText.innerHTML = `Что гуглят больше? <b>${result[1][1]}</b> vs <b>${result[2][1]}</b>`
+
+        trends = result
+        correct = result.correct
+    })
+
+    getTrends()
+
+    firstTrend.addEventListener('click', async () => {
+        if (correct == 'trend-1') {
+            gameStats.trends.push({
+                1: trends[1],
+                2: trends[2]
+            })
+            gameStats.points_gave += 10
+
+            getTrends()
+        } else {
+            const response = await fetch('/api/trend', {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json;charset=utf-8'
+                },
+                body: JSON.stringify({ stats: gameStats })
+            })
+
+            if (!response.ok) {
+                alert('Произошла неизвестная ошибка')
+                window.location.replace('/')
+                return
+            }
+
+            window.location.replace('/')
+        }
+    })
+
+    secondTrend.addEventListener('click', async () => {
+        if (correct == 'trend-2') {
+            gameStats.trends.push({
+                1: trends[1],
+                2: trends[2]
+            })
+            gameStats.points_gave += 10
+
+            getTrends()
+        } else {
+            const response = await fetch('/api/trend', {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json;charset=utf-8'
+                },
+                body: JSON.stringify({ stats: gameStats })
+            })
+
+            if (!response.ok) {
+                alert('Произошла неизвестная ошибка')
+                window.location.replace('/')
+                return
+            }
+
+            window.location.replace('/')
+        }
+    })
+</script>
 {% endblock %}
