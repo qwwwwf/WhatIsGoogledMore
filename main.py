@@ -1,6 +1,7 @@
 from os import getenv
 from dotenv import load_dotenv
 
+from api.trend_api import TrendResource
 from api.user_api import UserResource
 from config import STAR_EXCHANGE_RATE
 from data import db_session
@@ -22,6 +23,7 @@ app.config['SECRET_KEY'] = getenv('SECRET_KEY', '0b2d776d7d3e50323e285c30f9c3afc
 # API
 api = Api(app)
 api.add_resource(UserResource, '/api/users/<user_id>/<action>')
+api.add_resource(TrendResource, '/api/trend')
 
 # Database init
 db_session.global_init('db/data.db')

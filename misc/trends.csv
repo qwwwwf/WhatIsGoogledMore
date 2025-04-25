@@ -1,0 +1,441 @@
+location,year,category,rank,query
+Global,2019,Searches,1,India vs South Africa
+Global,2019,Searches,2,Cameron Boyce
+Global,2019,Searches,3,Copa America
+Global,2019,Searches,4,Bangladesh vs India
+Global,2019,Searches,5,iPhone 11
+Global,2019,News,1,Copa America
+Global,2019,News,2,Notre Dame
+Global,2019,News,3,ICC Cricket World Cup
+Global,2019,News,4,Hurricane Dorian
+Global,2019,News,5,Rugby World Cup
+Global,2019,People,1,Antonio Brown
+Global,2019,People,2,Neymar
+Global,2019,People,3,James Charles
+Global,2019,People,4,Jussie Smollett
+Global,2019,People,5,Kevin Hart
+Global,2019,Actors,1,Jussie Smollett
+Global,2019,Actors,2,Kevin Hart
+Global,2019,Actors,3,Joaquin Phoenix
+Global,2019,Actors,4,Keanu Reeves
+Global,2019,Actors,5,Lori Loughlin
+Global,2019,Athletes,1,Antonio Brown
+Global,2019,Athletes,2,Neymar
+Global,2019,Athletes,3,Bryce Harper
+Global,2019,Athletes,4,David Ortiz
+Global,2019,Athletes,5,Alex Morgan
+Global,2019,Movies,1,Avengers: Endgame
+Global,2019,Movies,2,Joker
+Global,2019,Movies,3,Captain Marvel
+Global,2019,Movies,4,Toy Story 4
+Global,2019,Movies,5,Aquaman
+Global,2019,Passings,1,Cameron Boyce
+Global,2019,Passings,2,Nipsey Hussle
+Global,2019,Passings,3,Julen
+Global,2019,Passings,4,Karl Lagerfeld
+Global,2019,Passings,5,Emiliano Sala
+Global,2019,Songs,1,Old Town Road
+Global,2019,Songs,2,7 Rings
+Global,2019,Songs,3,Shallow
+Global,2019,Songs,4,Señorita
+Global,2019,Songs,5,Memories
+Global,2019,TV Shows,1,Game of Thrones
+Global,2019,TV Shows,2,Stranger Things
+Global,2019,TV Shows,3,Chernobyl
+Global,2019,TV Shows,4,When They See Us
+Global,2019,TV Shows,5,The Umbrella Academy
+Global,2019,Consumer Brands,1,iPhone 11
+Global,2019,Consumer Brands,2,Samsung Galaxy S10
+Global,2019,Consumer Brands,3,AirPods
+Global,2019,Consumer Brands,4,Disney Plus
+Global,2019,Consumer Brands,5,Nintendo Switch
+Global,2019,Fashion Labels,1,Nike
+Global,2019,Fashion Labels,2,Adidas
+Global,2019,Fashion Labels,3,Gucci
+Global,2019,Fashion Labels,4,Louis Vuitton
+Global,2019,Fashion Labels,5,Zara
+Global,2019,Food Recipes,1,Shepherd's Pie
+Global,2019,Food Recipes,2,Chicken Parmesan
+Global,2019,Food Recipes,3,Lasagna
+Global,2019,Food Recipes,4,Beef Stroganoff
+Global,2019,Food Recipes,5,Chicken Alfredo
+Global,2020,Consumer Brands,1,Zoom
+Global,2020,Consumer Brands,2,iPhone 12
+Global,2020,Consumer Brands,3,Samsung Galaxy S20
+Global,2020,Consumer Brands,4,PlayStation 5
+Global,2020,Consumer Brands,5,Amazon
+Global,2020,Technology,1,AI
+Global,2020,Technology,2,Blockchain
+Global,2020,Technology,3,Quantum Computing
+Global,2020,Technology,4,Metaverse
+Global,2020,Technology,5,Cybersecurity
+Global,2020,Smartphones,1,iPhone 12
+Global,2020,Smartphones,2,Samsung Galaxy S20
+Global,2020,Smartphones,3,Xiaomi Redmi Note 8
+Global,2020,Smartphones,4,OnePlus 7T
+Global,2020,Smartphones,5,Google Pixel 4
+Global,2020,Laptops,1,HP Spectre
+Global,2020,Laptops,2,Asus ZenBook
+Global,2020,Laptops,3,Dell XPS
+Global,2020,Laptops,4,MacBook Air
+Global,2020,Laptops,5,Lenovo ThinkPad
+Global,2020,Wearable Tech,1,Samsung Galaxy Watch
+Global,2020,Wearable Tech,2,Fitbit
+Global,2020,Wearable Tech,3,Apple Watch
+Global,2020,Wearable Tech,4,Garmin
+Global,2020,Wearable Tech,5,Oura Ring
+Global,2020,Fashion Brands,1,Gucci
+Global,2020,Fashion Brands,2,Louis Vuitton
+Global,2020,Fashion Brands,3,Nike
+Global,2020,Fashion Brands,4,Adidas
+Global,2020,Fashion Brands,5,Prada
+Global,2020,Food Recipes,1,Dalgona Coffee
+Global,2020,Food Recipes,2,Banana Bread
+Global,2020,Food Recipes,3,Sourdough Bread
+Global,2020,Food Recipes,4,Pancake Cereal
+Global,2020,Food Recipes,5,Focaccia Bread
+Global,2020,Food & Drink,1,Pizza
+Global,2020,Food & Drink,2,Burger
+Global,2020,Food & Drink,3,Sushi
+Global,2020,Food & Drink,4,Vegan
+Global,2020,Food & Drink,5,Starbucks
+Global,2020,Movies,1,Parasite
+Global,2020,Movies,2,1917
+Global,2020,Movies,3,Black Panther
+Global,2020,Movies,4,365 Dni
+Global,2020,Movies,5,Contagion
+Global,2020,Music Artists,1,Taylor Swift
+Global,2020,Music Artists,2,BTS
+Global,2020,Music Artists,3,Drake
+Global,2020,Music Artists,4,Billie Eilish
+Global,2020,Music Artists,5,The Weeknd
+Global,2020,Sports,1,Messi
+Global,2020,Sports,2,Ronaldo
+Global,2020,Sports,3,NBA Finals
+Global,2020,Sports,4,Super Bowl
+Global,2020,Sports,5,Olympics
+Global,2020,Politics,1,Joe Biden
+Global,2020,Politics,2,Donald Trump
+Global,2020,Politics,3,Brexit
+Global,2020,Politics,4,Ukraine
+Global,2020,Politics,5,Elections
+Global,2020,Science & Health,1,COVID-19
+Global,2020,Science & Health,2,Vaccine
+Global,2020,Science & Health,3,NASA
+Global,2020,Science & Health,4,Mars Rover
+Global,2020,Science & Health,5,AI in Medicine
+Global,2021,Consumer Brands,1,iPhone 13
+Global,2021,Consumer Brands,2,Samsung Galaxy S21
+Global,2021,Consumer Brands,3,MacBook M1
+Global,2021,Consumer Brands,4,Nintendo Switch OLED
+Global,2021,Consumer Brands,5,AirPods Pro
+Global,2021,Fashion Labels,1,Balenciaga
+Global,2021,Fashion Labels,2,Adidas
+Global,2021,Fashion Labels,3,Gucci
+Global,2021,Fashion Labels,4,Louis Vuitton
+Global,2021,Fashion Labels,5,Dior
+Global,2021,Food Recipes,1,Feta Pasta
+Global,2021,Food Recipes,2,Birria Tacos
+Global,2021,Food Recipes,3,Corn Ribs
+Global,2021,Food Recipes,4,Cloud Bread
+Global,2021,Food Recipes,5,Salmon Rice Bowl
+Global,2021,Laptops,1,MacBook Pro M1
+Global,2021,Laptops,2,Microsoft Surface Laptop 4
+Global,2021,Laptops,3,HP Spectre x360 14
+Global,2021,Laptops,4,Lenovo Legion 5
+Global,2021,Laptops,5,Asus ROG Zephyrus G15
+Global,2021,Wearable Tech,1,Apple Watch Series 7
+Global,2021,Wearable Tech,2,Samsung Galaxy Watch 4
+Global,2021,Wearable Tech,3,Garmin Fenix 6
+Global,2021,Wearable Tech,4,Fitbit Versa 3
+Global,2021,Wearable Tech,5,Oura Ring
+Global,2021,Technology,1,AI
+Global,2021,Technology,2,Blockchain
+Global,2021,Technology,3,Quantum Computing
+Global,2021,Technology,4,5G
+Global,2021,Technology,5,Metaverse
+Global,2021,Movies,1,Avengers
+Global,2021,Movies,2,Spiderman
+Global,2021,Movies,3,Dune
+Global,2021,Movies,4,Oppenheimer
+Global,2021,Movies,5,Batman
+Global,2021,Sports,1,Football
+Global,2021,Sports,2,Basketball
+Global,2021,Sports,3,Tennis
+Global,2021,Sports,4,Cricket
+Global,2021,Sports,5,Formula 1
+Global,2021,Games,1,Fortnite
+Global,2021,Games,2,Minecraft
+Global,2021,Games,3,Valorant
+Global,2021,Games,4,Elden Ring
+Global,2021,Games,5,Cyberpunk 2077
+Global,2021,Health & Fitness,1,Yoga
+Global,2021,Health & Fitness,2,Meditation
+Global,2021,Health & Fitness,3,Keto Diet
+Global,2021,Health & Fitness,4,Crossfit
+Global,2021,Health & Fitness,5,Pilates
+Global,2021,Consumer Electronics,1,Sony WF-1000XM4
+Global,2021,Consumer Electronics,2,Beats Studio Buds
+Global,2021,Consumer Electronics,3,Nothing Ear (1)
+Global,2021,Consumer Electronics,4,Samsung Galaxy Buds 2
+Global,2021,Consumer Electronics,5,Bose QuietComfort 45
+Global,2021,Home Appliances,1,LG CordZero
+Global,2021,Home Appliances,2,Shark IQ Robot
+Global,2021,Home Appliances,3,Breville Barista Express
+Global,2021,Home Appliances,4,Anova Precision Cooker
+Global,2021,Home Appliances,5,Eufy RoboVac 30C
+Global,2021,Sneakers,1,Jordan 1 University Blue
+Global,2021,Sneakers,2,New Balance 550
+Global,2021,Sneakers,3,Nike Dunk Low Panda
+Global,2021,Sneakers,4,Reebok Club C
+Global,2021,Sneakers,5,Yeezy 700 Wave Runner
+Global,2021,Viral Dishes,1,Baked Oats
+Global,2021,Viral Dishes,2,Salmon Rice Bowl
+Global,2021,Viral Dishes,3,Gigi Hadid Pasta
+Global,2021,Viral Dishes,4,Churro Cheesecake
+Global,2021,Viral Dishes,5,Burrata Salad
+Global,2022,Consumer Electronics,1,AirPods 3
+Global,2022,Consumer Electronics,2,Sony LinkBuds
+Global,2022,Consumer Electronics,3,Google Pixel Buds Pro
+Global,2022,Consumer Electronics,4,Sennheiser Momentum 4
+Global,2022,Consumer Electronics,5,JBL Tour Pro 2
+Global,2022,Home Appliances,1,Dyson Purifier Cool
+Global,2022,Home Appliances,2,Samsung JetBot AI+
+Global,2022,Home Appliances,3,Vitamix A3500
+Global,2022,Home Appliances,4,COSORI Smart Air Fryer
+Global,2022,Home Appliances,5,Tovala Smart Oven
+Global,2022,Sneakers,1,Travis Scott x Nike
+Global,2022,Sneakers,2,Adidas NMD R1
+Global,2022,Sneakers,3,Salomon XT-6
+Global,2022,Sneakers,4,Asics Gel-Kayano
+Global,2022,Sneakers,5,Air Jordan 3 Fire Red
+Global,2022,Viral Dishes,1,Butter Board
+Global,2022,Viral Dishes,2,Smash Burger
+Global,2022,Viral Dishes,3,Vegan Sushi
+Global,2022,Viral Dishes,4,Cloud Eggs
+Global,2022,Viral Dishes,5,Rainbow Bagels
+Global,2022,Laptops,1,MacBook Air M2
+Global,2022,Laptops,2,Asus TUF Gaming
+Global,2022,Laptops,3,Lenovo 9i
+Global,2022,Laptops,4,Framework Laptop
+Global,2022,Laptops,5,MSI Stealth 15
+Global,2022,Fashion Brands,1,Bottega Veneta
+Global,2022,Fashion Brands,2,Moncler
+Global,2022,Fashion Brands,3,Jacquemus
+Global,2022,Fashion Brands,4,Givenchy
+Global,2022,Fashion Brands,5,Off-White
+Global,2022,Luxury Fashion,1,Dior
+Global,2022,Luxury Fashion,2,Burberry
+Global,2022,Luxury Fashion,3,Givenchy
+Global,2022,Luxury Fashion,4,Prada
+Global,2022,Luxury Fashion,5,Balenciaga
+Global,2022,Viral Foods,1,Cloud Bread
+Global,2022,Viral Foods,2,Dalgona Coffee
+Global,2022,Viral Foods,3,Butter Board
+Global,2022,Viral Foods,4,Taco Pizza
+Global,2022,Viral Foods,5,Pasta Chips
+Global,2022,Healthy Eating,1,Keto Diet
+Global,2022,Healthy Eating,2,Plant-Based Diet
+Global,2022,Healthy Eating,3,High-Protein Meals
+Global,2022,Healthy Eating,4,Mediterranean Diet
+Global,2022,Healthy Eating,5,Gluten-Free Recipes
+Global,2022,Beauty & Cosmetics,1,Maybelline
+Global,2022,Beauty & Cosmetics,2,MAC Cosmetics
+Global,2022,Beauty & Cosmetics,3,Rare Beauty
+Global,2022,Beauty & Cosmetics,4,Fenty Beauty
+Global,2022,Beauty & Cosmetics,5,Huda Beauty
+Global,2022,Consumer Brands,1,iPhone 14
+Global,2022,Consumer Brands,2,Samsung Galaxy S22
+Global,2022,Consumer Brands,3,Steam Deck
+Global,2022,Consumer Brands,4,DJI Mini 3
+Global,2022,Consumer Brands,5,AirPods Pro 2
+Global,2022,Fashion Labels,1,Nike
+Global,2022,Fashion Labels,2,Yeezy
+Global,2022,Fashion Labels,3,Burberry
+Global,2022,Fashion Labels,4,Chanel
+Global,2022,Fashion Labels,5,Armani
+Global,2022,Food Recipes,1,Baked Oats
+Global,2022,Food Recipes,2,Pasta Chips
+Global,2022,Food Recipes,3,Smash Burger
+Global,2022,Food Recipes,4,Korean Corn Dog
+Global,2022,Food Recipes,5,Tuna Tartare
+Global,2022,Smartphones,1,iPhone 14 Pro Max
+Global,2022,Smartphones,2,Samsung Galaxy Z Fold 4
+Global,2022,Smartphones,3,Samsung Galaxy S22 Ultra
+Global,2022,Smartphones,4,Oppo Find X5 Pro
+Global,2022,Smartphones,5,Xiaomi 12T Pro
+Global,2022,Sports,1,Messi
+Global,2022,Sports,2,Ronaldo
+Global,2022,Sports,3,NBA Finals
+Global,2022,Sports,4,Super Bowl
+Global,2022,Sports,5,Olympics
+Global,2022,Politics,1,Joe Biden
+Global,2022,Politics,2,Donald Trump
+Global,2022,Politics,3,Brexit
+Global,2022,Politics,4,Ukraine
+Global,2022,Politics,5,Elections
+Global,2022,Science & Health,1,COVID-19
+Global,2022,Science & Health,2,Vaccine
+Global,2022,Science & Health,3,NASA
+Global,2022,Science & Health,4,Mars Rover
+Global,2022,Science & Health,5,AI in Medicine
+Global,2022,Technology,1,AI
+Global,2022,Technology,2,Web3
+Global,2022,Technology,3,Edge Computing
+Global,2022,Technology,4,AI Cybersecurity
+Global,2022,Technology,5,Metaverse
+Global,2023,Consumer Brands,1,iPhone 15
+Global,2023,Consumer Brands,2,Samsung Galaxy S23
+Global,2023,Consumer Brands,3,PlayStation VR2
+Global,2023,Consumer Brands,4,Nintendo Switch Pro
+Global,2023,Consumer Brands,5,AI Chatbots
+Global,2023,Fashion Labels,1,Lululemon
+Global,2023,Fashion Labels,2,Bottega Veneta
+Global,2023,Fashion Labels,3,Fendi
+Global,2023,Fashion Labels,4,Celine
+Global,2023,Fashion Labels,5,Zara
+Global,2023,Food Recipes,1,Chia Pudding
+Global,2023,Food Recipes,2,Feta Pasta
+Global,2023,Food Recipes,3,Smash Burger
+Global,2023,Food Recipes,4,Spicy Rigatoni
+Global,2023,Food Recipes,5,Birria Tacos
+Global,2023,Laptops,1,MacBook Pro M3
+Global,2023,Laptops,2,Asus ROG Flow Z13
+Global,2023,Laptops,3,HP Spectre Foldable
+Global,2023,Laptops,4,Razer Blade 16
+Global,2023,Laptops,5,Samsung Galaxy Book
+Global,2023,Smartphones,1,iPhone 15
+Global,2023,Smartphones,2,Samsung Galaxy S23
+Global,2023,Smartphones,3,Google Pixel 8
+Global,2023,Smartphones,4,OnePlus 11
+Global,2023,Smartphones,5,Xiaomi 13
+Global,2023,Wearable Tech,1,Apple Watch Ultra
+Global,2023,Wearable Tech,2,Google Pixel Watch
+Global,2023,Wearable Tech,3,Samsung Galaxy Watch 5 Pro
+Global,2023,Wearable Tech,4,Garmin Epix 2
+Global,2023,Wearable Tech,5,Whoop 4.0
+Global,2023,Fashion Brands,1,Yeezy
+Global,2023,Fashion Brands,2,Rick Owens
+Global,2023,Fashion Brands,3,Supreme
+Global,2023,Fashion Brands,4,Stone Island
+Global,2023,Fashion Brands,5,Palm Angels
+Global,2023,Luxury Fashion,1,Givenchy
+Global,2023,Luxury Fashion,2,Prada
+Global,2023,Luxury Fashion,3,Balenciaga
+Global,2023,Luxury Fashion,4,Burberry
+Global,2023,Luxury Fashion,5,Dior
+Global,2023,Sneakers,1,New Balance
+Global,2023,Sneakers,2,Air Jordan
+Global,2023,Sneakers,3,Converse
+Global,2023,Sneakers,4,Yeezy
+Global,2023,Sneakers,5,Puma
+Global,2023,Beauty & Cosmetics,1,MAC Cosmetics
+Global,2023,Beauty & Cosmetics,2,Huda Beauty
+Global,2023,Beauty & Cosmetics,3,Rare Beauty
+Global,2023,Beauty & Cosmetics,4,Fenty Beauty
+Global,2023,Beauty & Cosmetics,5,Maybelline
+Global,2023,Food & Drink,1,Dalgona Coffee
+Global,2023,Food & Drink,2,Starbucks
+Global,2023,Food & Drink,3,Avocado Toast
+Global,2023,Food & Drink,4,Protein Bowls
+Global,2023,Food & Drink,5,Bubble Tea
+Global,2023,Viral Foods,1,Dalgona Coffee
+Global,2023,Viral Foods,2,Cloud Bread
+Global,2023,Viral Foods,3,Butter Board
+Global,2023,Viral Foods,4,Taco Pizza
+Global,2023,Viral Foods,5,Pasta Chips
+Global,2023,Healthy Eating,1,Mediterranean Diet
+Global,2023,Healthy Eating,2,Gluten-Free Recipes
+Global,2023,Healthy Eating,3,High-Protein Meals
+Global,2023,Healthy Eating,4,Keto Diet
+Global,2023,Healthy Eating,5,Plant-Based Diet
+Global,2023,Technology,1,AI
+Global,2023,Technology,2,Web3
+Global,2023,Technology,3,Decentralized Computing
+Global,2023,Technology,4,Quantum AI
+Global,2023,Technology,5,Spatial Computing
+Global,2024,Laptops,1,MacBook Air M3
+Global,2024,Laptops,2,Razer Blade 17
+Global,2024,Laptops,3,Asus TUF Dash
+Global,2024,Laptops,4,MSI Stealth 16
+Global,2024,Laptops,5,Framework Laptop 16
+Global,2024,Smartphones,1,iPhone 16
+Global,2024,Smartphones,2,Samsung Galaxy S24
+Global,2024,Smartphones,3,Google Pixel 9
+Global,2024,Smartphones,4,OnePlus 12
+Global,2024,Smartphones,5,Xiaomi 14
+Global,2024,Consumer Brands,1,iPhone 16
+Global,2024,Consumer Brands,2,Samsung Galaxy S24
+Global,2024,Consumer Brands,3,PlayStation 5 Pro
+Global,2024,Consumer Brands,4,Nintendo Switch 2
+Global,2024,Consumer Brands,5,Vision Pro
+Global,2024,Fashion Labels,1,Prada
+Global,2024,Fashion Labels,2,Jacquemus
+Global,2024,Fashion Labels,3,Miu Miu
+Global,2024,Fashion Labels,4,Balmain
+Global,2024,Fashion Labels,5,Off-White
+Global,2024,Food Recipes,1,Oreo Mug Cake
+Global,2024,Food Recipes,2,Cloud Bread
+Global,2024,Food Recipes,3,Smash Burger
+Global,2024,Food Recipes,4,Baked Feta Pasta
+Global,2024,Food Recipes,5,Birria Tacos
+Global,2024,Gaming Consoles,1,Xbox Series X
+Global,2024,Gaming Consoles,2,Nintendo Switch
+Global,2024,Gaming Consoles,3,PlayStation 5
+Global,2024,Gaming Consoles,4,Oculus Quest
+Global,2024,Gaming Consoles,5,Steam Deck
+Global,2024,Tech Gadgets,1,Portable Chargers
+Global,2024,Tech Gadgets,2,Wireless Earbuds
+Global,2024,Tech Gadgets,3,Gaming Monitors
+Global,2024,Tech Gadgets,4,Smart Home Devices
+Global,2024,Tech Gadgets,5,VR Headsets
+Global,2024,Fashion Brands,1,Adidas
+Global,2024,Fashion Brands,2,H&M
+Global,2024,Fashion Brands,3,Zara
+Global,2024,Fashion Brands,4,Louis Vuitton
+Global,2024,Fashion Brands,5,Nike
+Global,2024,Luxury Fashion,1,Balenciaga
+Global,2024,Luxury Fashion,2,Burberry
+Global,2024,Luxury Fashion,3,Dior
+Global,2024,Luxury Fashion,4,Prada
+Global,2024,Luxury Fashion,5,Givenchy
+Global,2024,Sneakers,1,Fear of God Athletics
+Global,2024,Sneakers,2,Louis Vuitton x Nike
+Global,2024,Sneakers,3,New Balance 1906R
+Global,2024,Sneakers,4,Nike Air Zoom GT Cut
+Global,2024,Sneakers,5,Reebok Pump
+Global,2024,Viral Dishes,1,Rice Paper Dumplings
+Global,2024,Viral Dishes,2,Cottage Cheese Ice Cream
+Global,2024,Viral Dishes,3,Bubble Waffles
+Global,2024,Viral Dishes,4,Miso Butter Pasta
+Global,2024,Viral Dishes,5,Croissant Cereal
+Global,2024,Technology,1,AI
+Global,2024,Technology,2,Quantum AI
+Global,2024,Technology,3,AI-Powered Healthcare
+Global,2024,Technology,4,Decentralized AI
+Global,2024,Technology,5,Neurotechnology
+Global,2024,Consumer Electronics,1,Sony WF-1000XM5
+Global,2024,Consumer Electronics,2,Beats Fit Pro 2
+Global,2024,Consumer Electronics,3,Google Pixel Buds A-Series
+Global,2024,Consumer Electronics,4,Sennheiser Accentum
+Global,2024,Consumer Electronics,5,Bowers & Wilkins Pi7
+Global,2024,Healthy Eating,1,Plant-Based Diet
+Global,2024,Healthy Eating,2,Keto Diet
+Global,2024,Healthy Eating,3,Mediterranean Diet
+Global,2024,Healthy Eating,4,Gluten-Free Recipes
+Global,2024,Healthy Eating,5,High-Protein Meals
+Global,2024,Beauty & Cosmetics,1,Charlotte Tilbury
+Global,2024,Beauty & Cosmetics,2,Dior Beauty
+Global,2024,Beauty & Cosmetics,3,Pat McGrath Labs
+Global,2024,Beauty & Cosmetics,4,NYX Professional Makeup
+Global,2024,Beauty & Cosmetics,5,Glossier
+Global,2024,Food & Drink,1,Cold Brew Coffee
+Global,2024,Food & Drink,2,Matcha Latte
+Global,2024,Food & Drink,3,Poke Bowls
+Global,2024,Food & Drink,4,Plant-Based Meat
+Global,2024,Food & Drink,5,Korean BBQ
+Global,2024,Viral Foods,1,Smash Tacos
+Global,2024,Viral Foods,2,Cheese Wheel Pasta
+Global,2024,Viral Foods,3,Sushi Bake
+Global,2024,Viral Foods,4,Churro Croissants
+Global,2024,Viral Foods,5,Loaded Fries
