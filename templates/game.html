@@ -3,17 +3,21 @@
 {% block content %}
 <div class="flex flex-col w-full h-[92vh] md:flex-row">
     <div id="trendsVersusText"
-         class="absolute bg-white px-7 py-3 text-lg rounded-2xl mt-6 left-1/2 -translate-x-1/2 shadow-lg">
+         class="absolute bg-white px-7 py-4 text-lg rounded-2xl mt-6 left-1/2 -translate-x-1/2 shadow-lg">
         Что гуглят больше?
         <b>?</b> vs <b>?</b>
     </div>
+    <div id="trendsCategoryText"
+         class="absolute bg-white px-7 py-4 text-lg rounded-2xl mt-23 left-1/2 -translate-x-1/2 shadow-lg">
+        Тема: <b>?</b>
+    </div>
     <div id="trend-1"
-         class="flex justify-center items-center w-[50%] h-full text-6xl bg-primary cursor-pointer transition-all hover:text-7xl">
-        <span>?</span>
+         class="flex flex-col gap-4 justify-center items-center w-[50%] text-center h-full bg-primary cursor-pointer transition-all text-5xl hover:text-6xl font-semibold">
+        ?
     </div>
     <div id="trend-2"
-         class="flex justify-center items-center w-[50%] h-full text-6xl bg-secondary cursor-pointer transition-all hover:text-7xl">
-        <span>?</span>
+         class="flex flex-col gap-4 justify-center items-center w-[50%] text-center h-full bg-secondary cursor-pointer transition-all text-5xl hover:text-6xl font-semibold">
+        ?
     </div>
 </div>
 
@@ -21,6 +25,7 @@
     const firstTrend = document.querySelector('#trend-1')
     const secondTrend = document.querySelector('#trend-2')
     const trendsVersusText = document.querySelector('#trendsVersusText')
+    const trendsCategoryText = document.querySelector('#trendsCategoryText')
 
     const gameStats = {
         user_id: {{ current_user.id }},
@@ -38,6 +43,7 @@
         firstTrend.innerHTML = result[1][1]
         secondTrend.innerHTML = result[2][1]
         trendsVersusText.innerHTML = `Что гуглят больше? <b>${result[1][1]}</b> vs <b>${result[2][1]}</b>`
+        trendsCategoryText.innerHTML = `Тема: <b>${result.category}</b> (${result.year} г.)`
 
         trends = result
         correct = result.correct

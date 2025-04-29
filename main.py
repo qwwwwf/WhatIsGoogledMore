@@ -101,7 +101,7 @@ def profile_route():
     games_data = []
 
     for game in current_user.games:
-        games_data.append([game.id, game.total_rounds, game.correctly_rounds, game.points_gave])
+        games_data.append([game.id, game.total_rounds, game.total_rounds - 1, game.points_gave])
 
     return render_template(
         'profile.html',

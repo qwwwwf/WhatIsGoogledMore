@@ -13,16 +13,20 @@ from flask_login import current_user
 parser = reqparse.RequestParser()
 parser.add_argument('stats', required=True)
 
+trends = get_trends()
+
 
 class TrendResource(Resource):
     def get(self):
-        trends = get_trends()
-        random_trend = random.choice(list(trends.keys()))
-        random_trends = random.sample(trends[random_trend], 2)
+        random_trend_year = random.choice(list(trends.keys()))
+        random_trend_category = random.choice(list(trends[random_trend_year].keys()))
+        random_trends = random.sample(trends[random_trend_year][random_trend_category], 2)
 
         data = {
             '1': random_trends[0],
             '2': random_trends[1],
+            'year': random_trend_year,
+            'category': random_trend_category,
             'correct': 'trend-1' if int(random_trends[0][0]) < int(random_trends[1][0]) else 'trend-2'
         }
 
@@ -40,7 +44,6 @@ class TrendResource(Resource):
         user = session.query(User).get(current_user.id)
         game = Game(
             total_rounds=len(trends) + 1,
-            correctly_rounds=len(trends),
             trends=trends,
             points_gave=points_gave,
             user_id=current_user.id
