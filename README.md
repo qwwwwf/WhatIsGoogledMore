@@ -102,4 +102,4 @@ WhatIsGoogledMore – это интерактивная веб-игра "Что 
 ---
 
 ## Презентация проекта
-Ссылка на [папку с презентацией](https://example.com)
+Ссылка на [папку с презентацией](https://docs.google.com/presentation/d/118SeNbxEp5nx2FrTmtwINTfePBhshJ0s/edit?usp=sharing&ouid=103935678908673665935&rtpof=true&sd=true)
