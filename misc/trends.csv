@@ -1,1475 +1,413 @@
 location,year,category,rank,query
-Global,2001,Consumer Brands,1,Nokia
-Global,2001,Consumer Brands,2,Sony
-Global,2001,Consumer Brands,3,BMW
-Global,2001,Consumer Brands,4,Palm
-Global,2001,Consumer Brands,5,Adobe
-Global,2001,Men,1,Нострадамус
-Global,2001,Men,3,Eminem
-Global,2001,Men,4,Майкл Джексон
-Global,2001,Men,5,Howard Stern
-Global,2001,Movies,1,Гарри Поттер
-Global,2001,Movies,2,Властелин колец
-Global,2001,Movies,3,Final Fantasy
-Global,2001,Movies,4,Tomb Raider
-Global,2001,Movies,5,Шрек
-Global,2001,MP3 Music Services,1,Morpheus
-Global,2001,MP3 Music Services,2,Napster
-Global,2001,MP3 Music Services,3,Gnutella
-Global,2001,MP3 Music Services,4,Kazaa
-Global,2001,MP3 Music Services,5,Audiogalaxy
-Global,2001,Music Groups,1,Битлз
-Global,2001,Music Groups,2,U2
-Global,2001,Music Groups,3,N Sync
-Global,2001,Music Groups,4,Бэкстрит Бойз
-Global,2001,Music Groups,5,Linkin Park
-Global,2001,New Products,1,Windows XP
-Global,2001,New Products,2,Xbox
-Global,2001,New Products,3,PlayStation 2
-Global,2001,New Products,4,GameCube
-Global,2001,New Products,5,Nokia 5510
-Global,2001,News Resources,1,CNN
-Global,2001,News Resources,2,BBC
-Global,2001,News Resources,3,New York Times
-Global,2001,News Resources,4,MSNBC
-Global,2001,News Resources,5,Washington Post
-Global,2001,Retailers,1,Amazon
-Global,2001,Retailers,2,IKEA
-Global,2001,Retailers,3,"Toys ""R"" Us"
-Global,2001,Retailers,4,Walmart
-Global,2001,Retailers,5,Circuit City
-Global,2001,Sports,1,Анна Курникова
-Global,2001,Sports,2,Тур де Франс
-Global,2001,Sports,3,Dale Earnhardt
-Global,2001,Sports,4,Уимблдон
-Global,2001,Sports,5,Открытый чемпионат США
-Global,2001,TV Shows,1,Loft Story
-Global,2001,TV Shows,2,Big Brother
-Global,2001,TV Shows,3,Симпсоны
-Global,2001,TV Shows,4,Survivor
-Global,2001,TV Shows,5,Gran Hermano
-Global,2001,Video Games,1,Контр-страйк
-Global,2001,Video Games,2,The Sims
-Global,2001,Video Games,3,Operation Flashpoint
-Global,2001,Video Games,4,Moorhuhn 3
-Global,2001,Video Games,5,Wolfenstein
-Global,2001,Women,1,Britney Spears
-Global,2001,Women,2,Pamela Anderson
-Global,2001,Women,3,Jennifer Lopez
-Global,2001,Women,4,Madonna
-Global,2001,Women,5,Aaliyah
-Global,2002,Athletes,1,David Beckham
-Global,2002,Athletes,2,Анна Курникова
-Global,2002,Athletes,3,Ronaldo
-Global,2002,Athletes,4,Kobe Bryant
-Global,2002,Athletes,5,Zinedine Zidane
-Global,2002,Consumer Brands,1,Ferrari
-Global,2002,Consumer Brands,2,Sony
-Global,2002,Consumer Brands,3,Nokia
-Global,2002,Consumer Brands,4,Disney
-Global,2002,Consumer Brands,5,IKEA
-Global,2002,Kids' Images,1,Симпсоны
-Global,2002,Kids' Images,2,Pokémon
-Global,2002,Kids' Images,3,Snoopy
-Global,2002,Kids' Images,4,Superman
-Global,2002,Kids' Images,5,Batman
-Global,2002,Men,1,Eminem
-Global,2002,Men,2,Brad Pitt
-Global,2002,Men,3,David Beckham
-Global,2002,Men,4,Josh Hartnett
-Global,2002,Men,5,2Pac
-Global,2002,Movies,1,Spiderman
-Global,2002,Movies,2,Гарри Поттер
-Global,2002,Movies,3,Star Wars
-Global,2002,Movies,4,Jackass
-Global,2002,Movies,5,Scooby Doo
-Global,2002,Musicians and Bands,1,Eminem
-Global,2002,Musicians and Bands,2,Shakira
-Global,2002,Musicians and Bands,3,Madonna
-Global,2002,Musicians and Bands,4,Nelly
-Global,2002,Musicians and Bands,5,2Pac
-Global,2002,News Stories,1,World Cup
-Global,2002,News Stories,3,Sniper
-Global,2002,News Stories,4,Hurricane Lili
-Global,2002,News Stories,5,Hochwasser
-Global,2002,Retailers,1,IKEA
-Global,2002,Retailers,2,Home Depot
-Global,2002,Retailers,3,Walmart
-Global,2002,Retailers,4,Best Buy
-Global,2002,Retailers,5,Sears
-Global,2002,Technology,1,MP3
-Global,2002,Technology,2,SMS
-Global,2002,Technology,3,WinZip
-Global,2002,Technology,4,Linux
-Global,2002,Technology,5,FTP
-Global,2002,Travel Destinations,1,Paris
-Global,2002,Travel Destinations,2,Canada
-Global,2002,Travel Destinations,3,New York
-Global,2002,Travel Destinations,4,India
-Global,2002,Travel Destinations,5,Las Vegas
-Global,2002,TV Shows,1,Симпсоны
-Global,2002,TV Shows,2,Big Brother
-Global,2002,TV Shows,3,The Osbournes
-Global,2002,TV Shows,4,South Park
-Global,2002,TV Shows,5,SpongeBob SquarePants
-Global,2002,Video Games,1,The Sims
-Global,2002,Video Games,2,Counter Strike
-Global,2002,Video Games,3,GTA 3
-Global,2002,Video Games,4,Warcraft 3
-Global,2002,Video Games,5,Jedi Knight 2
-Global,2002,Women,1,Britney Spears
-Global,2002,Women,2,Pamela Anderson
-Global,2002,Women,3,Jennifer Lopez
-Global,2002,Women,4,Shakira
-Global,2002,Women,5,Анна Курникова
-Global,2003,Anime Images,1,Manga
-Global,2003,Anime Images,2,Final Fantasy
-Global,2003,Anime Images,3,Sailor Moon
-Global,2003,Anime Images,4,Yu-Gi-Oh!
-Global,2003,Anime Images,5,Dragon Ball Z
-Global,2003,Consumer Brands,1,Ferrari
-Global,2003,Consumer Brands,2,Sony
-Global,2003,Consumer Brands,3,BMW
-Global,2003,Consumer Brands,4,Disney
-Global,2003,Consumer Brands,5,Ryanair
-Global,2003,Earthquake Searches,1,Earthquake
-Global,2003,Earthquake Searches,2,California Earthquake
-Global,2003,Earthquake Searches,3,Earthquakes
-Global,2003,Earthquake Searches,4,Earthquake California
-Global,2003,Earthquake Searches,5,California Earthquakes
-Global,2003,Fictional Character Images,1,Симпсоны
-Global,2003,Fictional Character Images,2,Гарри Поттер
-Global,2003,Fictional Character Images,3,Pokémon
-Global,2003,Fictional Character Images,4,Spiderman
-Global,2003,Fictional Character Images,5,Winnie the Pooh
-Global,2003,Male Celebrity Images,1,Eminem
-Global,2003,Male Celebrity Images,2,David Beckham
-Global,2003,Male Celebrity Images,3,Orlando Bloom
-Global,2003,Male Celebrity Images,4,Justin Timberlake
-Global,2003,Male Celebrity Images,5,50 Cent
-Global,2003,News Searches,2,Laci Peterson
-Global,2003,News Searches,3,Kobe Bryant
-Global,2003,News Searches,4,Bertrand Cantat
-Global,2003,News Searches,5,RIAA
-Global,2003,Searches,1,Britney Spears
-Global,2003,Searches,2,Гарри Поттер
-Global,2003,Searches,3,Matrix
-Global,2003,Searches,4,Shakira
-Global,2003,Searches,5,David Beckham
-Global,2004,Car Images,1,Ferrari
-Global,2004,Car Images,2,BMW
-Global,2004,Car Images,3,Lamborghini
-Global,2004,Car Images,4,Nissan Skyline
-Global,2004,Car Images,5,Porsche
-Global,2004,Cartoons Images,1,Симпсоны
-Global,2004,Cartoons Images,2,Pokémon
-Global,2004,Cartoons Images,3,South Park
-Global,2004,Cartoons Images,4,Garfield
-Global,2004,Cartoons Images,5,Hello Kitty
-Global,2004,Companies,1,SCO
-Global,2004,Companies,2,Johnson & Johnson
-Global,2004,Companies,3,ING
-Global,2004,Companies,4,GE Aviation
-Global,2004,Companies,5,Fleet
-Global,2004,Consumer Brands,1,eBay
-Global,2004,Consumer Brands,2,Walmart
-Global,2004,Consumer Brands,3,MapQuest
-Global,2004,Consumer Brands,4,Amazon
-Global,2004,Consumer Brands,5,Home Depot
-Global,2004,Countries,1,France
-Global,2004,Countries,2,China
-Global,2004,Deaths of 2004,1,Nicholas Berg
-Global,2004,Deaths of 2004,2,Christopher Reeve
-Global,2004,Deaths of 2004,3,Spalding Gray
-Global,2004,Deaths of 2004,4,Marlon Brando
-Global,2004,Deaths of 2004,5,Kenneth Bigley
-Global,2004,Entertainment,1,Spa
-Global,2004,Entertainment,2,Movies
-Global,2004,Entertainment,3,Nightclub
-Global,2004,Entertainment,4,Pub
-Global,2004,Entertainment,5,Zoo
-Global,2004,Female Celebrity Images,1,Britney Spears
-Global,2004,Female Celebrity Images,2,Christina Aguilera
-Global,2004,Female Celebrity Images,3,Pamela Anderson
-Global,2004,Female Celebrity Images,4,Paris Hilton
-Global,2004,Female Celebrity Images,5,Carmen Electra
-Global,2004,Foods,1,Pizza
-Global,2004,Foods,2,Sushi
-Global,2004,Foods,3,Bakery
-Global,2004,Foods,4,Chinese
-Global,2004,Foods,5,Italian
-Global,2004,Froogle Brand Searches,1,Louis Vuitton
-Global,2004,Froogle Brand Searches,2,Nikon
-Global,2004,Froogle Brand Searches,3,Canon
-Global,2004,Froogle Brand Searches,4,Treo
-Global,2004,Froogle Brand Searches,5,Tiffany
-Global,2004,Froogle Clothing Searches,1,Bikini
-Global,2004,Froogle Clothing Searches,2,Mini Skirt
-Global,2004,Froogle Clothing Searches,3,Prom Dresses
-Global,2004,Froogle Clothing Searches,4,Lingerie
-Global,2004,Froogle Clothing Searches,5,Little Black Dress
-Global,2004,Froogle Computer Goods Searches,1,Tablet PC
-Global,2004,Froogle Computer Goods Searches,2,Computer
-Global,2004,Froogle Computer Goods Searches,3,Laptop
-Global,2004,Froogle Computer Goods Searches,4,Headphones
-Global,2004,Froogle Computer Goods Searches,5,Computer Speakers
-Global,2004,Froogle Electronics Searches,1,iPod
-Global,2004,Froogle Electronics Searches,2,Digital Camera
-Global,2004,Froogle Electronics Searches,3,MP3
-Global,2004,Froogle Electronics Searches,4,Xbox
-Global,2004,Froogle Electronics Searches,5,PlayStation 2
-Global,2004,Froogle Hobby Searches,1,Poker Chips
-Global,2004,Froogle Hobby Searches,2,Airsoft Guns
-Global,2004,Froogle Hobby Searches,3,Mountain Bike
-Global,2004,Froogle Hobby Searches,4,Pocket Bike
-Global,2004,Froogle Hobby Searches,5,Night Vision Goggles
-Global,2004,Froogle Shoe Searches,1,UGG Boots
-Global,2004,Froogle Shoe Searches,2,Puma
-Global,2004,Froogle Shoe Searches,3,Adidas
-Global,2004,Froogle Shoe Searches,4,Nike
-Global,2004,Froogle Shoe Searches,5,Aerosole
-Global,2004,Health Services,1,Doctor
-Global,2004,Health Services,2,Hospital
-Global,2004,Health Services,3,Massage
-Global,2004,Health Services,4,Dentist
-Global,2004,Health Services,5,Yoga
-Global,2004,Hotel Chains,1,Holiday Inn
-Global,2004,Hotel Chains,2,Hampton Inn
-Global,2004,Hotel Chains,3,Marriott
-Global,2004,Hotel Chains,4,Hilton
-Global,2004,Hotel Chains,5,Days Inn
-Global,2004,Male Celebrity Images,1,Orlando Bloom
-Global,2004,Male Celebrity Images,2,Eminem
-Global,2004,Male Celebrity Images,3,Usher
-Global,2004,Male Celebrity Images,4,Johnny Depp
-Global,2004,Male Celebrity Images,5,Brad Pitt
-Global,2004,Men,1,Orlando Bloom
-Global,2004,Men,2,Eminem
-Global,2004,Men,3,Usher
-Global,2004,Men,4,Johnny Depp
-Global,2004,Men,5,Brad Pitt
-Global,2004,News Outlets,1,CNN
-Global,2004,News Outlets,2,Washington Post
-Global,2004,News Outlets,3,BBC
-Global,2004,News Outlets,4,Fox News
-Global,2004,News Outlets,5,New York Times
-Global,2004,Professional Services,1,Real Estate
-Global,2004,Professional Services,2,Attorney
-Global,2004,Professional Services,3,Insurance Broker
-Global,2004,Professional Services,4,Car Dealer
-Global,2004,Professional Services,5,Hair Salon
-Global,2004,Public Figures,1,George W. Bush
-Global,2004,Public Figures,2,Janet Jackson
-Global,2004,Public Figures,3,John Kerry
-Global,2004,Public Figures,4,Britney Spears
-Global,2004,Public Figures,5,Saddam Hussein
-Global,2004,Retail Chains,1,Walmart
-Global,2004,Retail Chains,2,Home Depot
-Global,2004,Retail Chains,3,Best Buy
-Global,2004,Retail Chains,4,Costco
-Global,2004,Retail Chains,5,Walgreens
-Global,2004,Searches,1,Britney Spears
-Global,2004,Searches,2,Paris Hilton
-Global,2004,Searches,3,Christina Aguilera
-Global,2004,Searches,4,Pamela Anderson
-Global,2004,Searches,5,Chat
-Global,2004,Sports,1,David Beckham
-Global,2004,Sports,2,Тур де Франс
-Global,2004,Sports,3,Euro 2004
-Global,2004,Sports,4,NBA
-Global,2004,Sports,5,Lance Armstrong
-Global,2004,Sports Services,1,YMCA
-Global,2004,Sports Services,2,Golf
-Global,2004,Sports Services,3,Campground
-Global,2004,Sports Services,4,Bowling
-Global,2004,Sports Services,5,Marathon
-Global,2004,Technology,1,Wallpaper
-Global,2004,Technology,2,Kazaa
-Global,2004,Technology,3,MP3
-Global,2004,Technology,4,Spybot
-Global,2004,Technology,5,Linux
-Global,2004,TV Shows,1,Симпсоны
-Global,2004,TV Shows,2,Pokémon
-Global,2004,TV Shows,3,South Park
-Global,2004,TV Shows,4,Charmed
-Global,2004,TV Shows,5,SpongeBob SquarePants
-Global,2004,Women,1,Britney Spears
-Global,2004,Women,2,Paris Hilton
-Global,2004,Women,3,Christina Aguilera
-Global,2004,Women,4,Pamela Anderson
-Global,2004,Women,5,Carmen Electra
-Global,2005,Froogle Searches,1,iPod
-Global,2005,Froogle Searches,2,Digital Camera
-Global,2005,Froogle Searches,3,MP3 Player
-Global,2005,Froogle Searches,4,iPod Mini
-Global,2005,Froogle Searches,5,PlayStation Portable
-Global,2005,Most Searched,1,Janet Jackson
-Global,2005,Most Searched,2,Hurricane Katrina
-Global,2005,Most Searched,3,Tsunami
-Global,2005,Most Searched,4,Xbox 360
-Global,2005,Most Searched,5,Brad Pitt
-Global,2006,Deaths of 2006,1,Aaron Spelling
-Global,2006,Deaths of 2006,2,Kirby Puckett
-Global,2006,Deaths of 2006,3,Jack Wild
-Global,2006,Deaths of 2006,4,Clifford Geertz
-Global,2006,Deaths of 2006,5,Muriel Spark
-Global,2006,Define...,1,Define Promiscuous
-Global,2006,Define...,2,Define Web 2.0
-Global,2006,Define...,3,Define FTW
-Global,2006,Define...,4,Define Calidad
-Global,2006,Define...,5,Define Ajax
-Global,2006,Divorces,1,Paul McCartney and Heather Mills
-Global,2006,Divorces,2,Travis Barker and Shanna Moakler
-Global,2006,Divorces,3,Britney Spears and Kevin Federline
-Global,2006,Divorces,4,Whitney Houston and Bobby Brown
-Global,2006,Divorces,5,Eminem and Kim Mathers
-Global,2006,How to...,1,How to Refinance
-Global,2006,How to...,2,Wiki How To
-Global,2006,How to...,3,How to Drift
-Global,2006,How to...,4,How to Podcast
-Global,2006,How to...,5,How to Scream
-Global,2006,Jerseys,1,World Cup Jerseys
-Global,2006,Jerseys,2,Zidane Jersey
-Global,2006,Jerseys,3,Buffalo Sabres Jersey
-Global,2006,Jerseys,4,Ronaldinho Jersey
-Global,2006,Jerseys,5,Italy Jersey
-Global,2006,Most Searched,1,Bebo
-Global,2006,Most Searched,2,Myspace
-Global,2006,Most Searched,3,World Cup
-Global,2006,Most Searched,4,Metacafe
-Global,2006,Most Searched,5,Radioblog
-Global,2006,News Searches,1,Paris Hilton
-Global,2006,News Searches,2,Orlando Bloom
-Global,2006,News Searches,3,Cancer
-Global,2006,News Searches,4,Podcasting
-Global,2006,News Searches,5,Hurricane Katrina
-Global,2006,Retirements,1,Bob Barker
-Global,2006,Retirements,2,Bobby Bowden
-Global,2006,Retirements,3,Sammy Sosa
-Global,2006,Retirements,4,Tiki Barber
-Global,2006,Retirements,5,Bill Gates
-Global,2006,Weddings,1,Nicole Kidman and Keith Urban
-Global,2006,Weddings,2,Tom Cruise and Katie Holmes
-Global,2006,Weddings,3,Avril Lavigne and Deryck Whibley
-Global,2006,Weddings,4,Campbell Brown and Dan Senor
-Global,2006,Weddings,5,TomKat Wedding Photos
-Global,2006,What is...,1,What is Hezbollah
-Global,2006,What is...,2,What is Carisoprodol
-Global,2006,What is...,3,What is Acyclovir
-Global,2006,What is...,4,What is Alprazolam
-Global,2006,What is...,5,What is Tramadol
-Global,2006,Where is...,1,Where is Togo
-Global,2006,Where is...,2,Where is Matt
-Global,2006,Where is...,3,Where is Torino
-Global,2006,Where is...,4,Where is Darfur
-Global,2006,Where is...,5,Where is Villanova
-Global,2007,News Searches,1,American Idol
-Global,2007,News Searches,2,YouTube
-Global,2007,News Searches,3,Britney Spears
-Global,2007,News Searches,4,2007 Cricket World Cup
-Global,2007,News Searches,5,Chris Benoit
-Global,2008,Campaign Buzzwords,1,Joe The Plumber
-Global,2008,Campaign Buzzwords,2,Jeremiah Wright
-Global,2008,Campaign Buzzwords,3,Maverick
-Global,2008,Campaign Buzzwords,4,William Ayers
-Global,2008,Campaign Buzzwords,5,Bridge To Nowhere
-Global,2008,Comfort Foods,1,Ice Cream
-Global,2008,Comfort Foods,2,Chili
-Global,2008,Comfort Foods,3,Spaghetti
-Global,2008,Comfort Foods,4,Meatloaf
-Global,2008,Comfort Foods,5,Fried Chicken
-Global,2008,Concerts,1,Jonas Brothers
-Global,2008,Concerts,2,Coldplay
-Global,2008,Concerts,3,Hannah Montana
-Global,2008,Concerts,4,Kenny Chesney
-Global,2008,Concerts,5,Carrie Underwood
-Global,2008,DIY,1,DIY Wedding
-Global,2008,DIY,2,DIY TV
-Global,2008,DIY,3,DIY Solar
-Global,2008,DIY,4,DIY Tile
-Global,2008,DIY,5,DIY Audio
-Global,2008,How To...,1,How To Draw
-Global,2008,How To...,2,How To Kiss
-Global,2008,How To...,3,How To Write
-Global,2008,How To...,4,How To Cook
-Global,2008,How To...,5,How To Tie
-Global,2008,It's All Over Now,1,Hugh Hefner & Holly Madison
-Global,2008,It's All Over Now,2,Danity Kane
-Global,2008,It's All Over Now,3,Jennifer Aniston & John Mayer
-Global,2008,It's All Over Now,4,Taylor Swift & Joe Jonas
-Global,2008,It's All Over Now,5,Jessica Simpson & Tony Romo
-Global,2008,Lyrics,1,With You
-Global,2008,Lyrics,2,My Life
-Global,2008,Lyrics,3,Love Song
-Global,2008,Lyrics,4,Lollipop
-Global,2008,Lyrics,5,Low
-Global,2008,Mascots,1,Olympic Mascot
-Global,2008,Mascots,2,Georgia Mascot
-Global,2008,Mascots,3,Tennessee Mascot
-Global,2008,Mascots,4,Ohio State Mascot
-Global,2008,Mascots,5,Phillies Mascot
-Global,2008,MLB,1,Boston Red Sox
-Global,2008,MLB,2,New York Yankees
-Global,2008,MLB,3,Chicago Cubs
-Global,2008,MLB,4,Philadelphia Phillies
-Global,2008,MLB,5,New York Mets
-Global,2008,Movie Trailers,1,Dark Knight
-Global,2008,Movie Trailers,2,Iron Man
-Global,2008,Movie Trailers,3,Hulk
-Global,2008,Movie Trailers,4,Star Wars
-Global,2008,Movie Trailers,5,Indiana Jones
-Global,2008,NBA Teams,1,Los Angeles Lakers
-Global,2008,NBA Teams,2,Boston Celtics
-Global,2008,NBA Teams,3,Phoenix Suns
-Global,2008,NBA Teams,4,New York Knicks
-Global,2008,NBA Teams,5,Detroit Pistons
-Global,2008,NFL Teams,1,New York Giants
-Global,2008,NFL Teams,2,Dallas Cowboys
-Global,2008,NFL Teams,3,New England Patriots
-Global,2008,NFL Teams,4,Pittsburgh Steelers
-Global,2008,NFL Teams,5,Green Bay Packers
-Global,2008,NHL Teams,1,Detroit Red Wings
-Global,2008,NHL Teams,2,Pittsburgh Penguins
-Global,2008,NHL Teams,3,Buffalo Sabres
-Global,2008,NHL Teams,4,Philadelphia Flyers
-Global,2008,NHL Teams,5,Boston Bruins
-Global,2008,Olympic Sports,1,Gymnastics
-Global,2008,Olympic Sports,2,Swimming
-Global,2008,Olympic Sports,3,Soccer
-Global,2008,Olympic Sports,4,Tennis
-Global,2008,Olympic Sports,5,Basketball
-Global,2008,Political News Sources,1,Fox
-Global,2008,Political News Sources,2,CNN
-Global,2008,Political News Sources,3,ABC
-Global,2008,Political News Sources,4,CBS
-Global,2008,Political News Sources,5,MSNBC
-Global,2008,Reality Shows,1,American Idol
-Global,2008,Reality Shows,2,Big Brother
-Global,2008,Reality Shows,3,Dancing with the Stars
-Global,2008,Reality Shows,4,So You Think You Can Dance
-Global,2008,Reality Shows,5,The Hills
-Global,2008,Rivalries,1,Red River Rivalry
-Global,2008,Rivalries,2,Michigan Ohio State Rivalry
-Global,2008,Rivalries,3,Red Sox Yankees Rivalry
-Global,2008,Rivalries,4,Lakers Celtics Rivalry
-Global,2008,Rivalries,5,Georgia Auburn Rivalry
-Global,2008,Soccer Teams,1,Manchester United F.C.
-Global,2008,Soccer Teams,2,Chelsea F.C.
-Global,2008,Soccer Teams,3,Chivas
-Global,2008,Soccer Teams,4,FC Barcelona
-Global,2008,Soccer Teams,5,Arsenal F.C.
-Global,2008,Social Networks,1,Facebook
-Global,2008,Social Networks,2,Myspace
-Global,2008,Social Networks,3,Hi5
-Global,2008,Social Networks,4,Orkut
-Global,2008,Social Networks,5,LinkedIn
-Global,2008,TV Shows,1,American Idol
-Global,2008,TV Shows,2,Lost
-Global,2008,TV Shows,3,SNL
-Global,2008,TV Shows,4,The Office
-Global,2008,TV Shows,5,Family Guy
-Global,2008,What Is...,1,What is Love
-Global,2008,What Is...,2,What is Life
-Global,2008,What Is...,3,What is Java
-Global,2008,What Is...,4,What is SAP
-Global,2008,What Is...,5,What is RSS
-Global,2008,Who is...,1,Who is Obama
-Global,2008,Who is...,2,Who is McCain
-Global,2008,Who is...,3,Who is Palin
-Global,2008,Who is...,4,Who is Lil Wayne
-Global,2008,Who is...,5,Who is Miley Cyrus
-Russia,2008,"""Кто такой..?""",1,Kтулху
-Russia,2008,"""Кто такой..?""",2,Девид Блэйн
-Russia,2008,"""Кто такой..?""",3,Mенеджер
-Russia,2008,"""Кто такой..?""",4,Kто ты такой
-Russia,2008,"""Кто такой..?""",5,Mедведев
-Russia,2008,"""Я хочу изменить...""",1,Цвет глаз
-Russia,2008,"""Я хочу изменить...""",2,Голос
-Russia,2008,"""Я хочу изменить...""",3,Цвет волос
-Russia,2008,"""Я хочу изменить...""",4,Имидж
-Russia,2008,"""Я хочу изменить...""",5,Cудьбу
-Russia,2008,Люди,1,Pанетки
-Russia,2008,Люди,2,Дима Билан
-Russia,2008,Люди,3,Путин
-Russia,2008,Люди,4,Бритни Спирс
-Russia,2008,Люди,5,Mедведев
-Russia,2008,Популярные запросы,1,Фото
-Russia,2008,Популярные запросы,2,Игры
-Russia,2008,Популярные запросы,3,Kарта
-Russia,2008,Популярные запросы,4,MP3
-Russia,2008,Популярные запросы,5,Погода
-Russia,2008,События,1,Oлимпиада в пекине
-Russia,2008,События,2,Eвро 2008
-Russia,2008,События,3,Bойна грузия осетия
-Russia,2008,События,4,Kризис
-Russia,2008,События,5,Kоллайдер
-Global,2009,Entertainment,1,Майкл Джексон
-Global,2009,Entertainment,2,Transformers
-Global,2009,Entertainment,3,Eminem
-Global,2009,Entertainment,4,Naruto Shippuden
-Global,2009,Entertainment,5,Beyoncé
-Global,2009,Events: Fastest Rising Searches,1,VMAs
-Global,2009,Events: Fastest Rising Searches,2,International Society Of Transport Aircraft Trading
-Global,2009,Events: Fastest Rising Searches,3,Delhi Sustainable Development Summit
-Global,2009,Events: Fastest Rising Searches,4,BBC Proms
-Global,2009,Events: Fastest Rising Searches,5,EuroChocolate
-Global,2009,Fastest Falling,1,Beijing 2008
-Global,2009,Fastest Falling,2,Euro 2008
-Global,2009,Fastest Falling,3,Heath Ledger
-Global,2009,Fastest Falling,4,Barack Obama
-Global,2009,Fastest Falling,5,Amy Winehouse
-Global,2009,Fastest Rising,1,Майкл Джексон
-Global,2009,Fastest Rising,2,Facebook
-Global,2009,Fastest Rising,3,Tuenti
-Global,2009,Fastest Rising,4,Twitter
-Global,2009,Fastest Rising,5,Sanalika
-Global,2009,Fastest Rising Searches: First Half of 2009,1,Eurovision 2009
-Global,2009,Fastest Rising Searches: First Half of 2009,2,Susan Boyle
-Global,2009,Fastest Rising Searches: First Half of 2009,3,Jade Goody
-Global,2009,Fastest Rising Searches: First Half of 2009,4,Lady Gaga
-Global,2009,Fastest Rising Searches: First Half of 2009,5,Robert Pattinson
-Global,2009,Fastest Rising Searches: Second Half of 2009,1,Win For Life
-Global,2009,Fastest Rising Searches: Second Half of 2009,2,FIFA 10
-Global,2009,Fastest Rising Searches: Second Half of 2009,3,Secret Story 3
-Global,2009,Fastest Rising Searches: Second Half of 2009,4,Facebook
-Global,2009,Fastest Rising Searches: Second Half of 2009,5,Schweinegrippe
-Global,2009,Festivals: Fastest Rising Searches,1,Sonnenrot Festival
-Global,2009,Festivals: Fastest Rising Searches,2,Festival Sudoeste
-Global,2009,Festivals: Fastest Rising Searches,3,Festival Di Venezia
-Global,2009,Festivals: Fastest Rising Searches,4,Coca Cola Zero Fest
-Global,2009,Festivals: Fastest Rising Searches,5,Lesbian Film Festival
-Global,2009,Food and Drink,1,Acai Berry
-Global,2009,Food and Drink,2,Picnic
-Global,2009,Food and Drink,3,COOKPAD
-Global,2009,Food and Drink,4,Tesco Direct
-Global,2009,Food and Drink,5,Senseo
-Global,2009,Looking to Buy Online: Fastest Rising Searches,1,Windows 7
-Global,2009,Looking to Buy Online: Fastest Rising Searches,2,Tamiflu
-Global,2009,Looking to Buy Online: Fastest Rising Searches,3,Alli
-Global,2009,Looking to Buy Online: Fastest Rising Searches,4,Nokia N97
-Global,2009,Looking to Buy Online: Fastest Rising Searches,5,LightScribe
-Global,2009,Mobile Application Searches: Fastest Rising,1,YouTube App
-Global,2009,Mobile Application Searches: Fastest Rising,2,Facebook App
-Global,2009,Mobile Application Searches: Fastest Rising,3,IPlayer App
-Global,2009,Mobile Application Searches: Fastest Rising,4,Google Maps App
-Global,2009,Mobile Application Searches: Fastest Rising,5,Twitter App
-Global,2009,News Searches: Fastest Rising,1,Ted Kennedy
-Global,2009,News Searches: Fastest Rising,2,Twitter Tips
-Global,2009,News Searches: Fastest Rising,3,Jade Goody
-Global,2009,News Searches: Fastest Rising,4,Gad Elmaleh
-Global,2009,News Searches: Fastest Rising,5,Chris Brown
-Global,2009,People: Fastest Rising,1,Jade Goody
-Global,2009,People: Fastest Rising,2,Lady Gaga
-Global,2009,People: Fastest Rising,3,Майкл Джексон
-Global,2009,People: Fastest Rising,4,Robert Pattinson
-Global,2009,People: Fastest Rising,5,Megan Fox
-Global,2009,Searches Related to Economy: Fastest Rising,1,Irish Economy 2009
-Global,2009,Searches Related to Economy: Fastest Rising,2,Indian Economy 2009
-Global,2009,Searches Related to Economy: Fastest Rising,3,Nobel Prize Economia 2009
-Global,2009,Searches Related to Economy: Fastest Rising,4,UK Economy 2009
-Global,2009,Searches Related to Economy: Fastest Rising,5,Energy Economy
-Global,2009,Sports,1,Real Madrid
-Global,2009,Sports,2,Открытый чемпионат США
-Global,2009,Sports,3,UFC
-Global,2009,Sports,4,Sahadan
-Global,2009,Sports,5,LiveScore
-Russia,2009,Самые быстро растущие запросы года,1,Windows 7
-Russia,2009,Самые быстро растущие запросы года,2,Одноклассники.ru Моя страница
-Russia,2009,Самые быстро растущие запросы года,3,Mайл
-Russia,2009,Самые быстро растущие запросы года,4,ВКонтакте
-Russia,2009,Самые быстро растущие запросы года,5,Фильмы онлайн
-Global,2010,Consumer Electronics,1,iPad
-Global,2010,Consumer Electronics,2,iPhone 4
-Global,2010,Consumer Electronics,3,Nokia 5530
-Global,2010,Consumer Electronics,4,HTC EVO 4g
-Global,2010,Consumer Electronics,5,Nokia N900
-Global,2010,Entertainment,1,Justin Bieber
-Global,2010,Entertainment,2,Shakira
-Global,2010,Entertainment,3,Eminem
-Global,2010,Entertainment,4,Netflix
-Global,2010,Entertainment,5,YouTube
-Global,2010,Falling Searches,1,Swine Flu
-Global,2010,Falling Searches,2,WaMu
-Global,2010,Falling Searches,3,New Moon
-Global,2010,Falling Searches,4,Mininova
-Global,2010,Falling Searches,5,Susan Boyle
-Global,2010,Food & Drink,1,MasterChef
-Global,2010,Food & Drink,3,Cupcakes
-Global,2010,Food & Drink,4,Jimmy Johns
-Global,2010,Health,1,HCG diet
-Global,2010,Health,2,Dr. Oz
-Global,2010,Health,3,Aspergers
-Global,2010,Health,4,McDonald's nutrition
-Global,2010,Health,5,Vitamin D Deficiency
-Global,2010,Humanitarian Aid,1,Donate to Haiti
-Global,2010,Humanitarian Aid,2,Donate to Pakistan
-Global,2010,Humanitarian Aid,3,Text to donate
-Global,2010,Humanitarian Aid,4,Doctors Without Borders
-Global,2010,Humanitarian Aid,5,Download to Donate
-Global,2010,Maps Searches,1,Anhembi Parque
-Global,2010,Maps Searches,2,WM Gucken
-Global,2010,Maps Searches,3,World Cup
-Global,2010,Maps Searches,4,Bundeskanzleramt
-Global,2010,Maps Searches,5,Rio Branco
-Global,2010,People,1,Justin Bieber
-Global,2010,People,2,Katy Perry
-Global,2010,People,3,Selena Gomez
-Global,2010,People,4,Kim Kardashian
-Global,2010,People,5,Eminem
-Global,2010,Sports,1,Mundial 2010
-Global,2010,Sports,2,Olympics
-Global,2010,Sports,3,ESPN3
-Global,2010,Sports,4,FIFA 11
-Global,2010,Sports,5,Randy Moss
-Global,2010,Top Trending,1,Chatroulette
-Global,2010,Top Trending,2,iPad
-Global,2010,Top Trending,3,Justin Bieber
-Global,2010,Top Trending,4,Nicki Minaj
-Global,2010,Top Trending,5,Friv
-Global,2011,Consumer Electronics,1,Amazon Kindle Fire
-Global,2011,Consumer Electronics,2,iPhone 4s
-Global,2011,Consumer Electronics,3,Sidekick 4g
-Global,2011,Consumer Electronics,4,Hp Touchpad
-Global,2011,Consumer Electronics,5,Spb Shell 3d
-Global,2011,Entertainment,1,Rebecca Black
-Global,2011,Entertainment,2,Ryan Dunn Dead
-Global,2011,Entertainment,3,Price Tag Lyrics
-Global,2011,Entertainment,4,Amy Winehouse Death
-Global,2011,Entertainment,5,Super Bass Lyrics
-Global,2011,Falling Searches,1,Myspace
-Global,2011,Falling Searches,2,Hi5
-Global,2011,Falling Searches,3,Mebo
-Global,2011,Falling Searches,4,Nasza Klasa
-Global,2011,Falling Searches,5,Netlog
-Global,2011,Fastest Rising,1,Rebecca Black
-Global,2011,Fastest Rising,2,Google Plus
-Global,2011,Fastest Rising,3,Ryan Dunn
-Global,2011,Fastest Rising,4,Casey Anthony
-Global,2011,Fastest Rising,5,Battlefield 3
-Global,2011,Food & Drink,1,Wendy's
-Global,2011,Food & Drink,2,Just Eat
-Global,2011,Food & Drink,3,Little Caesars
-Global,2011,Food & Drink,4,Chick-Fil-A
-Global,2011,Food & Drink,5,Allrecipes
-Global,2011,Google Maps,1,UTM
-Global,2011,Google Maps,2,Siegessaule Berlin
-Global,2011,Google Maps,3,Dpt Conforama
-Global,2011,Google Maps,4,Wells Fargo
-Global,2011,Google Maps,5,Friseur
-Global,2011,Google News,1,Fukushima
-Global,2011,Google News,2,iPhone 4s
-Global,2011,Google News,3,Melania Rea
-Global,2011,Google News,4,Salvatore Parolisi
-Global,2011,Google News,5,Lamberto Sposini
-Global,2011,People,1,Big Meech
-Global,2011,People,2,Steve Jobs
-Global,2011,People,3,John Dahlback
-Global,2011,People,4,Nicki Minaj
-Global,2011,People,5,Rihanna
-Global,2011,Sports,1,Mayweather vs. Ortiz
-Global,2011,Sports,2,SoccerStar
-Global,2011,Sports,3,Dan Wheldon
-Global,2011,Sports,4,UFC Rio
-Global,2011,Sports,5,Marco Simoncelli
-Russia,2011,Быстрорастущие запросы,1,Cмотреть Kино Oнлайн
-Russia,2011,Быстрорастущие запросы,2,100500
-Russia,2011,Быстрорастущие запросы,3,Vkontakte
-Russia,2011,Быстрорастущие запросы,4,iPad 2
-Russia,2011,Быстрорастущие запросы,5,Biglion
-Russia,2011,Люди,1,Cтив Джобс
-Russia,2011,Люди,2,Hавальный
-Russia,2011,Люди,3,Cелена Гомез
-Russia,2011,Люди,4,Eлена Bаенга
-Russia,2011,Люди,5,Джеки Чан
-Global,2012,Airlines,1,Southwest Airlines
-Global,2012,Airlines,2,United Airlines
-Global,2012,Airlines,3,American Airlines
-Global,2012,Airlines,4,Delta Airlines
-Global,2012,Airlines,5,Air France
-Global,2012,Athletes,1,Jeremy Lin
-Global,2012,Athletes,2,Michael Phelps
-Global,2012,Athletes,3,Peyton Manning
-Global,2012,Athletes,4,McKayla Maroney
-Global,2012,Athletes,5,Junior Seau
-Global,2012,Consumer Electronics,1,iPad 3
-Global,2012,Consumer Electronics,2,Samsung Galaxy S3
-Global,2012,Consumer Electronics,3,iPad Mini
-Global,2012,Consumer Electronics,4,Nexus 7
-Global,2012,Consumer Electronics,5,Galaxy Note 2
-Global,2012,Events,1,Hurricane Sandy
-Global,2012,Events,2,Kate Middleton Pictures Released
-Global,2012,Events,3,Olympics 2012
-Global,2012,Events,4,SOPA Debate
-Global,2012,Events,5,Costa Concordia crash
-Global,2012,Feature Films,1,The Hunger Games
-Global,2012,Feature Films,2,Skyfall
-Global,2012,Feature Films,3,Prometheus
-Global,2012,Feature Films,4,The Avengers
-Global,2012,Feature Films,5,Magic Mike
-Global,2012,Google+ Hashtags,1,#SOPA
-Global,2012,Google+ Hashtags,2,#Awesome
-Global,2012,Google+ Hashtags,3,#Sandy
-Global,2012,Google+ Hashtags,4,#IO12
-Global,2012,Google+ Hashtags,5,#Curiosity
-Global,2012,Images,1,One Direction
-Global,2012,Images,2,Selena Gomez
-Global,2012,Images,3,iPhone 5
-Global,2012,Images,4,Megan Fox
-Global,2012,Images,5,Rihanna
-Global,2012,People,1,Whitney Houston
-Global,2012,People,2,Kate Middleton
-Global,2012,People,3,Amanda Todd
-Global,2012,People,4,Michael Clarke Duncan
-Global,2012,People,5,One Direction
-Global,2012,Performing Artists,1,Whitney Houston
-Global,2012,Performing Artists,2,Michael Clarke Duncan
-Global,2012,Performing Artists,3,One Direction
-Global,2012,Performing Artists,4,Donna Summer
-Global,2012,Performing Artists,5,Lana Del Rey
-Global,2012,Searches,1,Whitney Houston
-Global,2012,Searches,2,Gangnam Style
-Global,2012,Searches,3,Hurricane Sandy
-Global,2012,Searches,4,iPad 3
-Global,2012,Searches,5,Diablo 3
-Global,2012,TV Shows,1,BBB12
-Global,2012,TV Shows,2,Avenida Brasil
-Global,2012,TV Shows,3,Here Comes Honey Boo Boo
-Global,2012,TV Shows,4,The Voice
-Global,2012,TV Shows,5,American Idol
-Global,2012,Videos,1,Gangnam Style
-Global,2012,Videos,2,Somebody That I Used to Know by Walk off the Earth
-Global,2012,Videos,3,KONY 2012
-Global,2012,Videos,4,Call Me Maybe featuring Justin Bieber
-Global,2012,Videos,5,Obama vs. Romney Epic Rap Battles of History
-Russia,2012,Еда,1,Ласточкино гнездо
-Russia,2012,Еда,2,Кексы
-Russia,2012,Еда,3,Малосольные Огурчики
-Russia,2012,Еда,4,Баклажан
-Russia,2012,Еда,5,Тыква
-Russia,2012,Как...,1,Как стать добрее
-Russia,2012,Как...,2,Как солить рыжики
-Russia,2012,Как...,3,Как взломать мыло
-Russia,2012,Как...,4,Как рисовать розы
-Russia,2012,Как...,5,Как достать клеща
-Russia,2012,Олимпийцы,1,Мансур Исаев
-Russia,2012,Олимпийцы,2,Арсен Галстян
-Russia,2012,Олимпийцы,3,Дарья Дмитриева
-Russia,2012,Олимпийцы,4,Тагир Хайбулаев
-Russia,2012,Олимпийцы,5,Иван Ухов
-Russia,2012,Песни,1,PSY - Gangnam Style
-Russia,2012,Песни,2,Бурановские Бабушки - Party For Everybody
-Russia,2012,Песни,3,Нюша - Воспоминание
-Russia,2012,Песни,4,Michel Telo - Nosa-Nosa
-Russia,2012,Песни,5,Adele - Skyfall
-Russia,2012,Покупки,1,iPhone 5
-Russia,2012,Покупки,2,Diablo 3
-Russia,2012,Покупки,3,Windows 8
-Russia,2012,Покупки,4,Nexus 7
-Russia,2012,Покупки,5,Ёлка
-Russia,2012,Популярные запросы,1,Ютюб
-Russia,2012,Популярные запросы,2,Смотреть фильмы онлайн
-Russia,2012,Популярные запросы,3,Олимпиада 2012
-Russia,2012,Популярные запросы,4,Одноклассники социальная сеть
-Russia,2012,Популярные запросы,5,Вконтакте моя страница
-Russia,2012,Почему...?,2,Почему лагает Minecraft
-Russia,2012,Почему...?,3,Почему коты урчат
-Russia,2012,Почему...?,5,Почему появляются прыщи
-Russia,2012,Путешествия,1,Крым
-Russia,2012,Путешествия,2,Париж
-Russia,2012,Путешествия,3,Вьетнам
-Russia,2012,Путешествия,5,Марокко
-Russia,2012,События,1,Олимпиада 2012
-Russia,2012,События,2,Евро 2012
-Russia,2012,События,3,Евровидение 2012
-Russia,2012,События,4,Выборы 2012
-Russia,2012,События,5,Крымск
-Russia,2012,ТВ-программы,1,Вечерний Ургант
-Russia,2012,ТВ-программы,2,Кровинушка Сериал
-Russia,2012,ТВ-программы,3,Животный смех
-Russia,2012,ТВ-программы,4,Говорим и показываем с Леонидом Закошанским
-Russia,2012,ТВ-программы,5,Висяки
-Russia,2012,Фильмы,1,Время
-Russia,2012,Фильмы,2,Самый страшный фильм
-Russia,2012,Фильмы,3,Прометей Фильм
-Russia,2012,Фильмы,4,Мадагаскар 3
-Russia,2012,Фильмы,5,Мстители
-Russia,2012,Что такое...?,1,Что такое бро
-Russia,2012,Что такое...?,3,Что такое судьба
-Russia,2012,Что такое...?,4,Что такое мейнстрим
-Global,2013,Athletes,1,Oscar Pistorius
-Global,2013,Athletes,2,Aaron Hernandez
-Global,2013,Athletes,3,Adrian Peterson
-Global,2013,Athletes,4,Kevin Ware
-Global,2013,Athletes,5,Lance Armstrong
-Global,2013,Consumer Electronics,1,iPhone 5s
-Global,2013,Consumer Electronics,2,Samsung Galaxy S4
-Global,2013,Consumer Electronics,3,PlayStation 4
-Global,2013,Consumer Electronics,4,Xbox One
-Global,2013,Consumer Electronics,5,Nexus 5
-Global,2013,Events,1,Boston Marathon
-Global,2013,Events,2,Typhoon Haiyan
-Global,2013,Events,3,Government Shutdown
-Global,2013,Events,4,2014 FIFA World Cup
-Global,2013,Events,5,Chinese New Year
-Global,2013,Google+ Hashtags,1,#Boston
-Global,2013,Google+ Hashtags,2,#BreakingBad
-Global,2013,Google+ Hashtags,3,#TyphoonHaiyan
-Global,2013,Google+ Hashtags,4,#MileyCryus
-Global,2013,Google+ Hashtags,5,#Pope
-Global,2013,Movies,1,Man of Steel
-Global,2013,Movies,2,Iron Man 3
-Global,2013,Movies,3,World War Z
-Global,2013,Movies,4,Django Unchained
-Global,2013,Movies,5,Despicable Me 2
-Global,2013,People,1,Nelson Mandela
-Global,2013,People,2,Paul Walker
-Global,2013,People,3,Malala Yousafzai
-Global,2013,People,4,James Gandolfini
-Global,2013,People,5,Miley Cyrus
-Global,2013,Performing Artists,1,Cory Monteith
-Global,2013,Performing Artists,2,Amanda Bynes
-Global,2013,Performing Artists,3,James Gandolfini
-Global,2013,Performing Artists,4,Charlie Hunnam
-Global,2013,Performing Artists,5,Robin Thicke
-Global,2013,Top Trending,1,Nelson Mandela
-Global,2013,Top Trending,2,Paul Walker
-Global,2013,Top Trending,3,iPhone 5s
-Global,2013,Top Trending,4,Cory Monteith
-Global,2013,Top Trending,5,Harlem Shake
-Global,2013,TV Shows,1,Under The Dome
-Global,2013,TV Shows,2,Defiance
-Global,2013,TV Shows,3,Big Brother 15
-Global,2013,TV Shows,4,Agents of S.H.I.E.L.D.
-Global,2013,TV Shows,5,Here Comes Honey Boo Boo
-Global,2013,YouTube Videos,1,Ylvis - The Fox (What Does the Fox Say?)
-Global,2013,YouTube Videos,2,Harlem Shake (Original Army Edition)
-Global,2013,YouTube Videos,3,How Animals Eat Their Food | MisterEpicMann
-Global,2013,YouTube Videos,4,Baby&Me / The New Evian Film
-Global,2013,YouTube Videos,5,Miley Cyrus - Wrecking Ball (Chatroulette Version)
-Russia,2013,В тренде,1,Пол Уокер
-Russia,2013,В тренде,2,Вк вход
-Russia,2013,В тренде,3,Евровидение 2013
-Russia,2013,В тренде,4,Молодежка
-Russia,2013,В тренде,5,Метеорит в Челябинске
-Russia,2013,Как?,1,Сделать скрин
-Russia,2013,Как?,2,Обновить iOS
-Russia,2013,Как?,3,Взломать вк
-Russia,2013,Как?,4,Взломать wi-fi
-Russia,2013,Как?,5,Нарисовать миньона
-Russia,2013,Люди,1,Пол Уокер
-Russia,2013,Люди,2,Андрей Панин
-Russia,2013,Люди,3,Березовский
-Russia,2013,Люди,4,Дед Хасан
-Russia,2013,Люди,5,Дина Гарипова
-Russia,2013,Мемы,1,Harlem shake
-Russia,2013,Мемы,2,Узбагойся
-Russia,2013,Мемы,3,Gangnam style
-Russia,2013,Мемы,4,Какой пацан
-Russia,2013,Мемы,5,Упоротый лис
-Russia,2013,Научиться...,1,Рисовать татуировки
-Russia,2013,Научиться...,2,Телекинезу
-Russia,2013,Научиться...,3,Руководить коллективом
-Russia,2013,Научиться...,4,Отжиматься
-Russia,2013,Научиться...,5,Инвестировать
-Russia,2013,Почему?,1,Развелся Путин
-Russia,2013,Почему?,2,Я шампунь
-Russia,2013,Почему?,3,Заблокировали одноклассники
-Russia,2013,Почему?,4,Умер горшок
-Russia,2013,Почему?,5,Подорожали яйца
-Russia,2013,Сколько стоит?,1,Развод
-Russia,2013,Сколько стоит?,2,Метеорит
-Russia,2013,Сколько стоит?,3,Лемур
-Russia,2013,Сколько стоит?,4,Эко
-Russia,2013,Сколько стоит?,5,Любовь
-Russia,2013,События,1,Евровидение 2013
-Russia,2013,События,2,Метеорит в Челябинске
-Russia,2013,События,3,Кличко Поветкин
-Russia,2013,События,4,Универсиада
-Russia,2013,События,5,Оскар 2013
-Russia,2013,Фильмы,1,Железный человек 3
-Russia,2013,Фильмы,2,Форсаж 6
-Russia,2013,Фильмы,3,Сталинград
-Russia,2013,Фильмы,4,Тихоокеанский рубеж
-Russia,2013,Фильмы,5,Иллюзия обмана
-Russia,2013,Что такое?,2,Ревность
-Russia,2013,Что такое?,3,Инстаграм
-Russia,2013,Что такое?,4,Френдзона
-Russia,2013,Что такое?,5,Мейнстрим
-Global,2014,Searches,1,Robin Williams
-Global,2014,Searches,2,World Cup
-Global,2014,Searches,3,Ebola
-Global,2014,Searches,4,Malaysia Airlines
-Global,2014,Searches,5,ALS Ice Bucket Challenge
-Global,2014,People,1,Jennifer Lawrence
-Global,2014,People,2,Kim Kardashian
-Global,2014,People,3,Julie Gayet
-Global,2014,People,4,Tracy Morgan
-Global,2014,People,5,Renee Zellweger
-Global,2014,Athletes,1,James Rodriguez
-Global,2014,Athletes,2,Michael Schumacher
-Global,2014,Athletes,3,Ray Rice
-Global,2014,Athletes,4,Luis Suarez
-Global,2014,Athletes,5,Neymar da Silva Santos
-Global,2014,Consumer Electronics,1,iPhone 6
-Global,2014,Consumer Electronics,2,Samsung Galaxy S5
-Global,2014,Consumer Electronics,3,Nexus 6
-Global,2014,Consumer Electronics,4,Moto G
-Global,2014,Consumer Electronics,5,Samsung Note 4
-Global,2014,Global News,1,Ebola
-Global,2014,Global News,2,ISIS
-Global,2014,Global News,3,Malaysia Airlines
-Global,2014,Global News,4,Crimea / Ukraine
-Global,2014,Global News,5,Ferguson
-Global,2014,Google Doodles of 2014,1,World Cup 2014 - Watching the game while the boss is away
-Global,2014,Google Doodles of 2014,2,2014 Winter Olympics
-Global,2014,Google Doodles of 2014,3,Rubik's Cube
-Global,2014,Google Doodles of 2014,4,Philae Robotic Lander
-Global,2014,Google Doodles of 2014,5,Nelson Mandela
-Global,2014,Loss,1,Robin Williams
-Global,2014,Loss,2,Philip Seymour Hoffman
-Global,2014,Loss,3,Peaches Geldof
-Global,2014,Loss,4,Shirley Temple
-Global,2014,Loss,5,Maya Angelou
-Global,2014,World Cup Matches,1,Brazil vs Germany
-Global,2014,World Cup Matches,2,Germany vs Argentina
-Global,2014,World Cup Matches,3,Brazil vs Chile
-Global,2014,World Cup Matches,4,Argentina vs Belgium
-Global,2014,World Cup Matches,5,Brazil vs Croatia
-Global,2014,YouTube Videos,1,Mutant Giant Spider Dog (SA Wardega)
-Global,2014,YouTube Videos,2,"Nike Football: Winner Stays. ft. Ronaldo, Neymar Jr., Rooney, Ibrahimović, Iniesta & more"
-Global,2014,YouTube Videos,3,FIRST KISS
-Global,2014,YouTube Videos,4,The Voice IT | Serie 2 | Blind 2 | Suor Cristina Scuccia - #TEAMJ-AX
-Global,2014,YouTube Videos,5,iPhone 6 Plus Bend Test
-Russia,2014,Топ быстрорастущих запросов,1,Сочи 2014
-Russia,2014,Топ быстрорастущих запросов,2,Жанна Фриске
-Russia,2014,Топ быстрорастущих запросов,3,Физрук
-Russia,2014,Топ быстрорастущих запросов,4,Евровидение 2014
-Russia,2014,Топ быстрорастущих запросов,5,Крым
-Russia,2014,Люди года,1,Жанна Фриске
-Russia,2014,Люди года,2,Юлия Липницкая
-Russia,2014,Люди года,3,Робин Уильямс
-Russia,2014,Люди года,5,Евгений Плющенко
-Russia,2014,Лайфхак года или как...?,1,Красить яйца
-Russia,2014,Лайфхак года или как...?,2,Похудела Пелагея
-Russia,2014,Лайфхак года или как...?,3,Пройти 2048
-Russia,2014,Лайфхак года или как...?,4,Развести миллионера
-Russia,2014,Лайфхак года или как...?,5,Быть мужиком
-Russia,2014,Книги года,1,Виноваты звезды
-Russia,2014,Книги года,2,Улыбка пересмешника
-Russia,2014,Книги года,3,Яма
-Russia,2014,Книги года,4,Дивергент
-Russia,2014,Книги года,5,Дары волхвов
-Russia,2014,Купить дешево,1,Игровой компьютер
-Russia,2014,Купить дешево,2,Диван-кровать
-Russia,2014,Купить дешево,3,Двухсимочный телефон
-Russia,2014,Купить дешево,4,Авиабилеты
-Russia,2014,Купить дешево,5,IPTV
-Global,2015,Searches,1,Lamar Odom
-Global,2015,Searches,2,Charlie Hebdo
-Global,2015,Searches,3,Agar.io
-Global,2015,Searches,4,Jurassic World
-Global,2015,Searches,5,Paris
-Global,2015,Global News,1,Charlie Hebdo
-Global,2015,Global News,2,Paris
-Global,2015,Global News,3,Hurricane Patricia
-Global,2015,Global News,4,Isis
-Global,2015,Global News,5,Nepal
-Global,2015,People,1,Lamar Odom
-Global,2015,People,2,Ronda Rousey
-Global,2015,People,3,Caitlyn Jenner
-Global,2015,People,4,Adele
-Global,2015,People,5,Charlie Sheen
-Global,2015,Global Sporting Events,1,Copa America
-Global,2015,Global Sporting Events,2,Уимблдон
-Global,2015,Global Sporting Events,3,Тур де Франс
-Global,2015,Global Sporting Events,4,Rugby World Cup
-Global,2015,Global Sporting Events,5,Super Bowl
-Global,2015,Movies,1,Jurassic World
-Global,2015,Movies,2,Furious 7
-Global,2015,Movies,3,American Sniper
-Global,2015,Movies,4,Fifty Shade of Grey
-Global,2015,Movies,5,Minions
-Global,2015,TV Shows,1,Big Brother Brazil
-Global,2015,TV Shows,2,Jessica Jones
-Global,2015,TV Shows,3,Bigg Boss
-Global,2015,TV Shows,4,Fear the Walking Dead
-Global,2015,TV Shows,5,Better Call Saul
-Global,2015,Loss,1,Bobbi Kristina
-Global,2015,Loss,2,Cristiano Araujo
-Global,2015,Loss,3,Christopher Lee
-Global,2015,Loss,4,Sandra Bland
-Global,2015,Loss,5,Stuart Scott
-Global,2015,Music Artists,1,Adele
-Global,2015,Music Artists,2,Sia
-Global,2015,Music Artists,3,Eagles of Death Metal
-Global,2015,Music Artists,4,Sam Smith
-Global,2015,Music Artists,5,Meghan Trainor
-Global,2015,Consumer Tech,1,iPhone 6S
-Global,2015,Consumer Tech,2,Samsung Galaxy S6
-Global,2015,Consumer Tech,3,Apple Watch
-Global,2015,Consumer Tech,4,iPad Pro
-Global,2015,Consumer Tech,5,LG G4
-Russia,2015,Топ быстрорастущих запросов,1,Жанна Фриске
-Russia,2015,Топ быстрорастущих запросов,2,50 оттенков серого
-Russia,2015,Топ быстрорастущих запросов,3,Евровидение
-Russia,2015,Топ быстрорастущих запросов,4,Игра престолов 5 сезон
-Russia,2015,Топ быстрорастущих запросов,5,Молодежка 3 сезон
-Russia,2015,События года,1,Евровидение
-Russia,2015,События года,2,Чм по хоккею
-Russia,2015,События года,3,Солнечное затмение
-Russia,2015,События года,4,Оскар
-Russia,2015,События года,5,Хоккей Россия Канада
-Russia,2015,Что такое...?,2,Левиафан
-Russia,2015,Что такое...?,3,Ничоси
-Russia,2015,Что такое...?,4,Pray for Paris
-Russia,2015,Люди года,1,Жанна Фриске
-Russia,2015,Люди года,2,Полина Гагарина
-Russia,2015,Люди года,3,Борис Немцов
-Russia,2015,Люди года,4,Дмитрий Шепелев
-Russia,2015,Люди года,5,Джулия Ванг
-Russia,2015,Мемы года,1,Карл
-Russia,2015,Мемы года,2,Ничоси
-Russia,2015,Мемы года,3,Джон Cина
-Russia,2015,Мемы года,4,Гарольд
-Russia,2015,Мемы года,5,Успешный ребенок
-Russia,2015,Почему?,1,Нельзя фотографировать спящих
-Russia,2015,Почему?,2,Нельзя спать напротив зеркала
-Russia,2015,Почему?,3,Возникает эффект дежавю
-Russia,2015,Почему?,4,Упал самолет
-Russia,2015,Почему?,5,Ушел Пахом
-Global,2016,Searches,1,Pokémon Go
-Global,2016,Searches,2,iPhone 7
-Global,2016,Searches,3,Donald Trump
-Global,2016,Searches,4,Prince
-Global,2016,Searches,5,Powerball
-Global,2016,Global News,1,US Election
-Global,2016,Global News,2,Olympics
-Global,2016,Global News,3,Brexit
-Global,2016,Global News,4,Orlando Shooting
-Global,2016,Global News,5,Zika Virus
-Global,2016,People,1,Donald Trump
-Global,2016,People,2,Hillary Clinton
-Global,2016,People,3,Michael Phelps
-Global,2016,People,4,Melania Trump
-Global,2016,People,5,Simone Biles
-Global,2016,Consumer Tech,1,iPhone 7
-Global,2016,Consumer Tech,2,Freedom 251
-Global,2016,Consumer Tech,3,iPhone SE
-Global,2016,Consumer Tech,4,iPhone 6S
-Global,2016,Consumer Tech,5,Google Pixel
-Global,2016,Global Sporting Events,1,Rio Olympics
-Global,2016,Global Sporting Events,2,World Series
-Global,2016,Global Sporting Events,3,Тур де Франс
-Global,2016,Global Sporting Events,4,Уимблдон
-Global,2016,Global Sporting Events,5,Australian Open
-Global,2016,Losses,1,Prince
-Global,2016,Losses,2,David Bowie
-Global,2016,Losses,3,Christina Grimmie
-Global,2016,Losses,4,Alan Rickman
-Global,2016,Losses,5,Muhammad Ali
-Global,2016,Movies,1,Deadpool
-Global,2016,Movies,3,The Revenant
-Global,2016,Movies,4,Captain America Civil War
-Global,2016,Movies,5,Batman v Superman
-Global,2016,Musicians,1,Céline Dion
-Global,2016,Musicians,2,Kesha
-Global,2016,Musicians,3,Michael Bublé
-Global,2016,Musicians,4,Creed
-Global,2016,TV Shows,1,Stranger Things
-Global,2016,TV Shows,2,Westworld
-Global,2016,TV Shows,3,Luke Cage
-Global,2016,TV Shows,4,Game of Thrones
-Global,2016,TV Shows,5,Black Mirror
-Russia,2016,Топ быстрорастущих запросов,1,Евро-2016
-Russia,2016,Топ быстрорастущих запросов,2,Евровидение 2016
-Russia,2016,Топ быстрорастущих запросов,3,Олимпийские игры в Рио
-Russia,2016,Топ быстрорастущих запросов,4,Pokemon GO
-Russia,2016,Топ быстрорастущих запросов,5,Выборы в США
-Russia,2016,Люди года,1,Дональд Трамп
-Russia,2016,Люди года,2,Алан Рикман
-Russia,2016,Люди года,3,Дэвид Боуи
-Russia,2016,Люди года,4,Марго Робби
-Russia,2016,Люди года,5,Олег Попов
-Russia,2016,Мемы года,1,Патимейкер
-Russia,2016,Мемы года,2,"Денег нет, но вы держитесь"
-Russia,2016,Мемы года,3,Дратути
-Russia,2016,Мемы года,4,Вейпер
-Russia,2016,Мемы года,5,Джон Траволта
-Russia,2016,Планы года (начать...),1,Свое дело женщине
-Russia,2016,Планы года (начать...),2,Закаляться
-Russia,2016,Планы года (начать...),3,Всё с нуля
-Russia,2016,Планы года (начать...),4,Стримить
-Russia,2016,Планы года (начать...),5,Фермерское хозяйство
-Russia,2016,Российские фильмы,1,Самый лучший день
-Russia,2016,Российские фильмы,2,Жених
-Russia,2016,Российские фильмы,3,Экипаж
-Russia,2016,Российские фильмы,4,Иван Царевич и Серый волк 3
-Russia,2016,Российские фильмы,5,Взломать блогеров
-Russia,2016,Туристические направления,1,Крым
-Russia,2016,Туристические направления,2,Тунис
-Russia,2016,Туристические направления,3,Приморье
-Russia,2016,Туристические направления,4,Турция
-Russia,2016,Туристические направления,5,Геленджик
-Global,2017,Searches,1,Hurricane Irma
-Global,2017,Searches,2,iPhone 8
-Global,2017,Searches,3,iPhone X
-Global,2017,Searches,4,Matt Lauer
-Global,2017,Searches,5,Meghan Markle
-Global,2017,People,1,Matt Lauer
-Global,2017,People,2,Meghan Markle
-Global,2017,People,3,Nadia Toffa
-Global,2017,People,4,Harvey Weinstein
-Global,2017,People,5,Kevin Spacey
-Global,2017,Global News,1,Hurricane Irma
-Global,2017,Global News,2,Bitcoin
-Global,2017,Global News,3,Las Vegas Shooting
-Global,2017,Global News,4,North Korea
-Global,2017,Global News,5,Solar Eclipse
-Global,2017,Actors,1,Meghan Markle
-Global,2017,Actors,2,Kevin Spacey
-Global,2017,Actors,3,Gal Gadot
-Global,2017,Actors,4,Louis C.K.
-Global,2017,Actors,5,Bill Skarsgård
-Global,2017,Consumer Tech,1,iPhone 8
-Global,2017,Consumer Tech,2,iPhone X
-Global,2017,Consumer Tech,3,Nintendo Switch
-Global,2017,Consumer Tech,4,Samsung Galaxy S8
-Global,2017,Consumer Tech,5,Xbox One X
-Global,2017,Elections,1,French election
-Global,2017,Elections,2,German federal election
-Global,2017,Elections,3,UK election
-Global,2017,Elections,4,Uttar Pradesh election
-Global,2017,Elections,5,Georgia special election
-Global,2017,Global Sporting Events,1,Уимблдон
-Global,2017,Global Sporting Events,2,Super Bowl
-Global,2017,Global Sporting Events,3,Mayweather vs McGregor Fight
-Global,2017,Global Sporting Events,4,Тур де Франс
-Global,2017,Global Sporting Events,5,World Series
-Global,2017,How To...,1,How to make slime
-Global,2017,How To...,2,How to make solar eclipse glasses
-Global,2017,How To...,3,How to buy Bitcoin
-Global,2017,How To...,4,How to watch Mayweather vs McGregor
-Global,2017,How To...,5,How to make a fidget spinner
-Global,2017,Losses,1,Tom Petty
-Global,2017,Losses,2,Chester Bennington
-Global,2017,Losses,3,Chris Cornell
-Global,2017,Losses,4,Bill Paxton
-Global,2017,Losses,5,Hugh Hefner
-Global,2017,Memes,1,Cash Me Outside Meme
-Global,2017,Memes,2,United Airlines Meme
-Global,2017,Memes,3,Elf on the Shelf Meme
-Global,2017,Memes,4,What in Tarnation Meme
-Global,2017,Memes,5,Spongebob Mocking Meme
-Global,2017,Movies,1,IT
-Global,2017,Movies,2,Wonder Woman
-Global,2017,Movies,3,Beauty and the Beast
-Global,2017,Movies,4,Logan
-Global,2017,Movies,5,Justice League
-Global,2017,Musicians and Bands,1,Ariana Grande
-Global,2017,Musicians and Bands,2,Linkin Park
-Global,2017,Musicians and Bands,3,Lady Gaga
-Global,2017,Musicians and Bands,4,Mariah Carey
-Global,2017,Musicians and Bands,5,Ed Sheeran
-Global,2017,Recipe,1,Chicken breast recipe
-Global,2017,Recipe,2,Ground beef recipe
-Global,2017,Recipe,3,Poğaça tarifi (Turkish bread recipe)
-Global,2017,Recipe,4,French toast recipe
-Global,2017,Recipe,5,Kek tarifi (cake recipe)
-Global,2017,Songs/Lyrics,1,Despacito
-Global,2017,Songs/Lyrics,2,Shape of You
-Global,2017,Songs/Lyrics,3,Perfect
-Global,2017,Songs/Lyrics,4,Havana
-Global,2017,Songs/Lyrics,5,Look What You Made Me Do
-Global,2017,TV Shows,1,Stranger Things
-Global,2017,TV Shows,2,13 Reasons Why
-Global,2017,TV Shows,3,Big Brother Brasil
-Global,2017,TV Shows,4,Game of Thrones
-Global,2017,TV Shows,5,Iron Fist
-Russia,2017,События и явления,1,Жеребьевка Чемпионата мира 2018
-Russia,2017,События и явления,2,ЧМ по хоккею
-Russia,2017,События и явления,3,Кубок конфедераций
-Russia,2017,События и явления,4,Спиннер
-Russia,2017,События и явления,5,iPhone 8
-Russia,2017,Рэп-исполнители,1,Oxxxymiron
-Russia,2017,Рэп-исполнители,2,Face
-Russia,2017,Рэп-исполнители,3,Гнойный
-Russia,2017,Рэп-исполнители,4,Хаски
-Russia,2017,Рэп-исполнители,5,Фараон
-Russia,2017,Утраты,1,Вера Глаголева
-Russia,2017,Утраты,2,Дмитрий Марьянов
-Russia,2017,Утраты,3,Честер Беннингтон
-Russia,2017,Утраты,4,Михаил Задорнов
-Russia,2017,Утраты,5,Илона Новоселова
-Russia,2017,Как начать?,1,Майнить
-Russia,2017,Как начать?,2,Свой бизнес
-Russia,2017,Как начать?,3,Худеть
-Russia,2017,Как начать?,4,Ремонт
-Russia,2017,Как начать?,5,Трансляцию в Instagram
-Russia,2017,Мемы,1,Ждун
-Russia,2017,Мемы,2,Это фиаско братан
-Russia,2017,Мемы,3,На донышке
-Russia,2017,Мемы,4,Вжух
-Russia,2017,Мемы,5,Чевапчичи
-Russia,2017,Что такое?,1,Хайп
-Russia,2017,Что такое?,2,Спиннер
-Russia,2017,Что такое?,3,Фиаско
-Russia,2017,Что такое?,4,Лобогрейка
-Russia,2017,Что такое?,5,Антикитерский механизм
-Global,2018,Searches,1,World Cup
-Global,2018,Searches,2,Avicii
-Global,2018,Searches,3,Mac Miller
-Global,2018,Searches,4,Stan Lee
-Global,2018,Searches,5,Black Panther
-Global,2018,News,1,World Cup
-Global,2018,News,2,Hurricane Florence
-Global,2018,News,3,Mega Millions Result
-Global,2018,News,4,Royal Wedding
-Global,2018,News,5,Election Results
-Global,2018,People,1,Meghan Markle
-Global,2018,People,2,Demi Lovato
-Global,2018,People,3,Sylvester Stallone
-Global,2018,People,4,Logan Paul
-Global,2018,People,5,Khloé Kardashian
-Global,2018,Actors,1,Sylvester Stallone
-Global,2018,Actors,2,Logan Paul
-Global,2018,Actors,3,Pete Davidson
-Global,2018,Actors,4,Bill Cosby
-Global,2018,Actors,5,Noah Centineo
-Global,2018,Athletes,1,Tristan Thompson
-Global,2018,Athletes,2,Alexis Sánchez
-Global,2018,Athletes,3,Lindsey Vonn
-Global,2018,Athletes,4,Shaun White
-Global,2018,Athletes,5,Khabib Nurmagomedov
-Global,2018,Loss,1,Avicii
-Global,2018,Loss,2,Mac Miller
-Global,2018,Loss,3,Stan Lee
-Global,2018,Loss,4,Anthony Bourdain
-Global,2018,Loss,5,XXXTentacion
-Global,2018,Movies,1,Black Panther
-Global,2018,Movies,2,Deadpool 2
-Global,2018,Movies,3,Venom
-Global,2018,Movies,4,Avengers: Infinity War
-Global,2018,Movies,5,Bohemian Rhapsody
-Global,2018,Musicians and Bands,1,Demi Lovato
-Global,2018,Musicians and Bands,2,Cardi B
-Global,2018,Musicians and Bands,3,Daniel Küblböck
-Global,2018,Musicians and Bands,4,Travis Scott
-Global,2018,Musicians and Bands,5,Rick Ross
-Russia,2018,События,1,Чемпионат мира по футболу
-Russia,2018,События,2,Олимпиада
-Russia,2018,События,3,Кемерово
-Russia,2018,События,4,Бой Хабиба и Макгрегора
-Russia,2018,События,5,Выборы президента России
-Russia,2018,Люди,1,Хабиб Нурмагомедов
-Russia,2018,Люди,2,Меган Маркл
-Russia,2018,Люди,3,Настя Рыбка
-Russia,2018,Люди,4,Павел Грудинин
-Russia,2018,Люди,5,Президент Хорватии
-Russia,2018,Утраты,1,Стивен Хокинг
-Russia,2018,Утраты,2,Иосиф Кобзон
-Russia,2018,Утраты,3,XXXtentacion
-Russia,2018,Утраты,4,Олег Табаков
-Russia,2018,Утраты,5,Стэн Ли
-Russia,2018,Имена чемпионата мира по футболу,1,Игорь Акинфеев
-Russia,2018,Имена чемпионата мира по футболу,2,Артем Дзюба
-Russia,2018,Имена чемпионата мира по футболу,3,Александр Головин
-Russia,2018,Имена чемпионата мира по футболу,4,Марио Фернандес
-Russia,2018,Имена чемпионата мира по футболу,5,Станислав Черчесов
-Russia,2018,Как стать?,1,Блогером
-Russia,2018,Как стать?,2,Моделью
-Russia,2018,Как стать?,3,Наблюдателем на выборах
-Russia,2018,Как стать?,4,Программистом
-Russia,2018,Как стать?,5,Космонавтом
-Russia,2018,Мемы,1,Илон Маск
-Russia,2018,Мемы,2,Мышь крадется
-Russia,2018,Мемы,3,Момо
-Russia,2018,Мемы,4,За себя и за сашку
-Russia,2018,Мемы,5,Сын маминой подруги
-Global,2019,Searches,1,India vs South Africa
-Global,2019,Searches,2,Cameron Boyce
-Global,2019,Searches,3,Copa America
-Global,2019,Searches,4,Bangladesh vs India
-Global,2019,Searches,5,iPhone 11
-Global,2019,News,1,Copa America
-Global,2019,News,2,Notre Dame
-Global,2019,News,3,ICC Cricket World Cup
-Global,2019,News,4,Hurricane Dorian
-Global,2019,News,5,Rugby World Cup
-Global,2019,People,1,Antonio Brown
-Global,2019,People,2,Neymar
-Global,2019,People,3,James Charles
-Global,2019,People,4,Jussie Smollett
-Global,2019,People,5,Kevin Hart
-Global,2019,Actors,1,Jussie Smollett
-Global,2019,Actors,2,Kevin Hart
-Global,2019,Actors,3,Joaquin Phoenix
-Global,2019,Actors,4,Keanu Reeves
-Global,2019,Actors,5,Lori Loughlin
-Global,2019,Athletes,1,Antonio Brown
-Global,2019,Athletes,2,Neymar
-Global,2019,Athletes,3,Bryce Harper
-Global,2019,Athletes,4,David Ortiz
-Global,2019,Athletes,5,Alex Morgan
-Global,2019,Movies,1,Avengers: Endgame
-Global,2019,Movies,2,Joker
-Global,2019,Movies,3,Captain Marvel
-Global,2019,Movies,4,Toy Story 4
-Global,2019,Movies,5,Aquaman
-Global,2019,Passings,1,Cameron Boyce
-Global,2019,Passings,2,Nipsey Hussle
-Global,2019,Passings,3,Julen
-Global,2019,Passings,4,Karl Lagerfeld
-Global,2019,Passings,5,Emiliano Sala
-Global,2019,Songs,1,Old Town Road
-Global,2019,Songs,2,7 Rings
-Global,2019,Songs,3,Shallow
-Global,2019,Songs,4,Señorita
-Global,2019,Songs,5,Memories
-Global,2019,TV Shows,1,Game of Thrones
-Global,2019,TV Shows,2,Stranger Things
-Global,2019,TV Shows,3,Chernobyl
-Global,2019,TV Shows,4,When They See Us
-Global,2019,TV Shows,5,The Umbrella Academy
-Russia,2019,События,1,Евровидение-2019
-Russia,2019,События,2,30-летие падения Берлинской стены
-Russia,2019,События,3,Футбольный матч Россия — Бельгия
-Russia,2019,События,4,Бой Хабиба Нурмагомедова и Дастина Пуарье
-Russia,2019,События,5,Пожар в соборе Парижской Богоматери
-Russia,2019,Люди,1,Юлия Началова
-Russia,2019,Люди,2,Децл
-Russia,2019,Люди,3,Анастастасия Заворотнюк
-Russia,2019,Люди,5,Алла Вербер
-Russia,2019,Кто такой(-ая)?,1,Кодзима
-Russia,2019,Кто такой(-ая)?,3,Децл
-Russia,2019,Кто такой(-ая)?,4,Иван Голунов
-Russia,2019,Кто такой(-ая)?,5,Юлия Началова
-Russia,2019,Книги,1,Дж. Бойн «Мальчик в полосатой пижаме»
-Russia,2019,Книги,2,К. Чуковский «Муха-Цокотуха»
-Russia,2019,Книги,3,К. Стейс «50 дней до моего самоубийства»
-Russia,2019,Книги,4,А. Тодд «После»
-Russia,2019,Книги,5,А. Пушкин «Капитанская дочка»
-Russia,2019,Сериалы,1,Игра престолов
-Russia,2019,Сериалы,2,Чернобыль
-Russia,2019,Сериалы,3,Ветреный
-Russia,2019,Сериалы,4,Султан моего сердца
-Russia,2019,Сериалы,5,Жестокий Стамбул
-Russia,2019,С чем (как) носить...?,1,Юбка-плиссе
-Russia,2019,С чем (как) носить...?,2,Кюлоты
-Russia,2019,С чем (как) носить...?,3,Пальто
-Russia,2019,С чем (как) носить...?,4,Ботфорты
-Russia,2019,С чем (как) носить...?,5,Поясная сумка
-Russia,2019,Что посмотреть в...?,1,Казань
-Russia,2019,Что посмотреть в...?,2,Калининград
-Russia,2019,Что посмотреть в...?,3,Геленджик
-Russia,2019,Что посмотреть в...?,4,Санкт-Петербург
-Russia,2019,Что посмотреть в...?,5,Выборг
-Russia,2019,Свадьбы,1,Ксения Собчак и Константин Богомолов
-Russia,2019,Свадьбы,2,Потап и Настя Каменских
-Russia,2019,Свадьбы,3,Настя Ивлеева и Элджей
-Russia,2019,Свадьбы,4,Алексей Купин и Майя Донцова
-Russia,2019,Свадьбы,5,Юлиан и Анастасия
-Russia,2019,Как правильно...? (ЗОЖ),1,Делать вакуум
-Russia,2019,Как правильно...? (ЗОЖ),2,Медитировать
-Russia,2019,Как правильно...? (ЗОЖ),3,Сушиться
-Russia,2019,Как правильно...? (ЗОЖ),4,Отжиматься
-Russia,2019,Как правильно...? (ЗОЖ),5,Лежать на валике
-Global,2020,Searches,1,Coronavirus
-Global,2020,Searches,2,Election results
-Global,2020,Searches,3,Kobe Bryant
-Global,2020,Searches,4,Zoom
-Global,2020,Searches,5,IPL
-Global,2020,News,1,Coronavirus
-Global,2020,News,2,Election results
-Global,2020,News,3,Iran
-Global,2020,News,4,Beirut
-Global,2020,News,5,Hantavirus
-Global,2020,Actors,1,Tom Hanks
-Global,2020,Actors,2,Joaquin Phoenix
-Global,2020,Actors,3,Amitabh Bachchan
-Global,2020,Actors,4,Ricky Gervais
-Global,2020,Actors,5,Jada Pinkett Smith
-Global,2020,Athletes,1,Ryan Newman
-Global,2020,Athletes,2,Michael Jordan
-Global,2020,Athletes,3,Tyson Fury
-Global,2020,Athletes,4,Tom Brady
-Global,2020,Athletes,5,Mike Tyson
-Global,2020,Concerts,1,Together At Home concert
-Global,2020,Concerts,2,Fire Fight Australia concert
-Global,2020,Concerts,3,Garth Brooks drive in concert
-Global,2020,Concerts,4,Travis Scott Fortnite concert
-Global,2020,Concerts,5,BTS online concert
-Global,2020,Games,1,Among Us
-Global,2020,Games,2,Fall Guys: Ultimate Knockout
-Global,2020,Games,3,Valorant
-Global,2020,Games,4,Genshin Impact
-Global,2020,Games,5,The Last of Us 2
-Global,2020,Loss,1,Kobe Bryant
-Global,2020,Loss,2,Naya Rivera
-Global,2020,Loss,3,Chadwick Boseman
-Global,2020,Loss,4,Sushant Singh Rajput
-Global,2020,Loss,5,George Floyd
-Global,2020,Lyrics,1,WAP
-Global,2020,Lyrics,2,Savage Love
-Global,2020,Lyrics,3,GOOBA
-Global,2020,Lyrics,4,Skechers
-Global,2020,Lyrics,5,Dynamite
-Global,2020,Movies,1,Parasite
-Global,2020,Movies,2,1917
-Global,2020,Movies,3,Black Panther
-Global,2020,Movies,4,365 Dni
-Global,2020,Movies,5,Contagion
-Global,2020,People,1,Joe Biden
-Global,2020,People,2,Kim Jong Un
-Global,2020,People,3,Boris Johnson
-Global,2020,People,4,Kamala Harris
-Global,2020,People,5,Tom Hanks
-Global,2020,Recipes,1,Dalgona coffee
-Global,2020,Recipes,2,Ekmek
-Global,2020,Recipes,3,Sourdough bread
-Global,2020,Recipes,4,Pizza
-Global,2020,Recipes,5,Lahmacun
-Global,2020,TV Shows,1,Tiger King
-Global,2020,TV Shows,2,Big Brother Brasil
-Global,2020,TV Shows,3,Money Heist
-Global,2020,TV Shows,4,Cobra Kai
-Global,2020,TV Shows,5,The Umbrella Academy
-Russia,2020,События,1,Коронавирус
-Russia,2020,События,2,Выборы в США
-Russia,2020,События,4,Бой Хабиба Нурмагомедова и Джастина Гэтжи
-Russia,2020,Утраты,1,Борис Клюев
-Russia,2020,Утраты,2,Коби Брайант
-Russia,2020,Утраты,3,Ирина Антонова
-Russia,2020,Утраты,4,Валентина Легкоступова
-Russia,2020,Утраты,5,Чедвик Боузман
-Russia,2020,«Что такое...?»/«Что значит...?»,1,Пандемия
-Russia,2020,«Что такое...?»/«Что значит...?»,2,Коронавирус
-Russia,2020,Люди,1,Алексей Навальный
-Russia,2020,Люди,2,Борис Клюев
-Russia,2020,Люди,3,Эллен/Эллиот Пейдж
-Russia,2020,Люди,4,Михаил Ефремов
-Russia,2020,Люди,5,Ким Чен Ын
-Russia,2020,В домашних условиях,1,Антисептик
-Russia,2020,В домашних условиях,2,Вино из винограда
-Russia,2020,В домашних условиях,3,Маска
-Russia,2020,В домашних условиях,4,Майонез
-Russia,2020,В домашних условиях,5,Чистка серебра
-Russia,2020,Как?,1,Сажать картошку
-Russia,2020,Как?,2,Сшить маску
-Russia,2020,Как?,3,Получить пропуск
-Russia,2020,Как?,4,Встать на биржу труда
-Russia,2020,Как?,5,Вернуть обоняние
-Russia,2020,Путешествия по России («Что посмотреть в...?»),1,Сочи
-Russia,2020,Путешествия по России («Что посмотреть в...?»),2,Тула
-Russia,2020,Путешествия по России («Что посмотреть в...?»),3,Тверь
-Russia,2020,Путешествия по России («Что посмотреть в...?»),4,Калининград
-Russia,2020,Путешествия по России («Что посмотреть в...?»),5,Нижний Новгород
-Russia,2020,Фильмы,1,Холоп
-Russia,2020,Фильмы,2,Джентльмены
-Russia,2020,Фильмы,3,Довод
-Russia,2020,Фильмы,4,Союз cпасения
-Russia,2020,Фильмы,5,Лёд 2
-Russia,2020,Сериалы,1,Жестокий Cтамбул
-Russia,2020,Сериалы,2,Бумажный дом
-Russia,2020,Сериалы,3,Ветреный
-Russia,2020,Сериалы,4,Перевал Дятлова
-Russia,2020,Сериалы,5,Ведьмак
+Russia,2024,Животные и питомцы,1,кот
+Russia,2024,Животные и питомцы,2,собака
+Russia,2024,Животные и питомцы,3,хомяк
+Russia,2024,Животные и питомцы,4,попугай
+Russia,2024,Животные и питомцы,5,черепаха
+Russia,2024,Животные и питомцы,6,аквариум
+Russia,2024,Животные и питомцы,7,корелла
+Russia,2024,Животные и питомцы,8,мышь
+Russia,2024,Образование и экзамены,1,ЕГЭ
+Russia,2024,Образование и экзамены,2,ОГЭ
+Russia,2024,Образование и экзамены,3,ГИА
+Russia,2024,Образование и экзамены,4,школьная форма
+Russia,2024,Образование и экзамены,5,учебник
+Russia,2024,Образование и экзамены,6,репетитор
+Russia,2024,Образование и экзамены,7,дистанционка
+Russia,2024,Образование и экзамены,8,каникулы
+Russia,2024,Хобби и увлечения,1,вязание
+Russia,2024,Хобби и увлечения,2,рисование
+Russia,2024,Хобби и увлечения,3,рыбалка
+Russia,2024,Хобби и увлечения,4,фотография
+Russia,2024,Хобби и увлечения,5,садоводство
+Russia,2024,Хобби и увлечения,6,оригами
+Russia,2024,Хобби и увлечения,7,лепка
+Russia,2024,Хобби и увлечения,8,настольные игры
+Russia,2024,Кинофильмы,1,Барби
+Russia,2024,Кинофильмы,2,Оппенгеймер
+Russia,2024,Кинофильмы,3,Дюна
+Russia,2024,Кинофильмы,4,Чебурашка
+Russia,2024,Кинофильмы,5,Мстители
+Russia,2024,Кинофильмы,6,Брат
+Russia,2024,Кинофильмы,7,Легенда №17
+Russia,2024,Кинофильмы,8,Матрица
+Russia,2024,Компьютеры,1,видеокарта
+Russia,2024,Компьютеры,2,процессор
+Russia,2024,Компьютеры,3,SSD
+Russia,2024,Компьютеры,4,оперативная память
+Russia,2024,Компьютеры,5,материнская плата
+Russia,2024,Компьютеры,6,системный блок
+Russia,2024,Компьютеры,7,монитор
+Russia,2024,Компьютеры,8,мышка
+Russia,2024,Карьера и работа,1,резюме
+Russia,2024,Карьера и работа,2,собеседование
+Russia,2024,Карьера и работа,3,удалёнка
+Russia,2024,Карьера и работа,4,работа в IT
+Russia,2024,Карьера и работа,5,фриланс
+Russia,2024,Карьера и работа,6,карьерный рост
+Russia,2024,Карьера и работа,7,headhunter
+Russia,2024,Карьера и работа,8,вакансии
+Russia,2024,Кинофраншизы,1,Гарри Поттер
+Russia,2024,Кинофраншизы,2,Звёздные войны
+Russia,2024,Кинофраншизы,3,Марвел
+Russia,2024,Кинофраншизы,4,DC
+Russia,2024,Кинофраншизы,5,Форсаж
+Russia,2024,Кинофраншизы,6,Пираты Карибского моря
+Russia,2024,Кинофраншизы,7,Шрек
+Russia,2024,Кинофраншизы,8,Матрица
+Russia,2024,Маркетплейсы и сервисы,1,Ozon
+Russia,2024,Маркетплейсы и сервисы,2,Wildberries
+Russia,2024,Маркетплейсы и сервисы,3,AliExpress
+Russia,2024,Маркетплейсы и сервисы,4,Яндекс Маркет
+Russia,2024,Маркетплейсы и сервисы,5,Авито
+Russia,2024,Маркетплейсы и сервисы,6,СберМаркет
+Russia,2024,Маркетплейсы и сервисы,7,Ситилинк
+Russia,2024,Маркетплейсы и сервисы,8,Ламода
+Russia,2024,Путешествия и города,1,Сочи
+Russia,2024,Путешествия и города,2,Байкал
+Russia,2024,Путешествия и города,3,Санкт-Петербург
+Russia,2024,Путешествия и города,4,Москва
+Russia,2024,Путешествия и города,5,Казань
+Russia,2024,Путешествия и города,6,Калининград
+Russia,2024,Путешествия и города,7,Дубай
+Russia,2024,Путешествия и города,8,Турция
+Russia,2024,Телешоу и сериалы,1,Дом-2
+Russia,2024,Телешоу и сериалы,2,Интерны
+Russia,2024,Телешоу и сериалы,3,Кухня
+Russia,2024,Телешоу и сериалы,4,Физрук
+Russia,2024,Телешоу и сериалы,5,Слуга народа
+Russia,2024,Телешоу и сериалы,6,Мажор
+Russia,2024,Телешоу и сериалы,7,Сверхъестественное
+Russia,2024,Телешоу и сериалы,8,Игра престолов
+Russia,2024,Детство и ностальгия,1,"Ну, погоди!"
+Russia,2024,Детство и ностальгия,2,Детский мир
+Russia,2024,Детство и ностальгия,3,тамагочи
+Russia,2024,Детство и ностальгия,4,жвачка Love is
+Russia,2024,Детство и ностальгия,5,пластинки
+Russia,2024,Детство и ностальгия,6,песочные часы
+Russia,2024,Детство и ностальгия,7,советские мультики
+Russia,2024,Детство и ностальгия,8,классики
+Russia,2024,Музыка,1,Miyagi
+Russia,2024,Музыка,2,Morgenstern
+Russia,2024,Музыка,3,Баста
+Russia,2024,Музыка,4,Монеточка
+Russia,2024,Музыка,5,Олег Газманов
+Russia,2024,Музыка,6,Shaman
+Russia,2024,Музыка,7,Zivert
+Russia,2024,Музыка,8,Меладзе
+Russia,2024,Спорт,1,футбол
+Russia,2024,Спорт,2,хоккей
+Russia,2024,Спорт,3,теннис
+Russia,2024,Спорт,4,баскетбол
+Russia,2024,Спорт,5,биатлон
+Russia,2024,Спорт,6,фигурное катание
+Russia,2024,Спорт,7,волейбол
+Russia,2024,Спорт,8,UFC
+Russia,2024,Видеоигры,1,Minecraft
+Russia,2024,Видеоигры,2,GTA 5
+Russia,2024,Видеоигры,3,Dota 2
+Russia,2024,Видеоигры,4,CS:GO
+Russia,2024,Видеоигры,5,The Sims
+Russia,2024,Видеоигры,6,Stalker
+Russia,2024,Видеоигры,7,Fortnite
+Russia,2024,Видеоигры,8,World of Tanks
+Russia,2024,Люди года,1,Илон Маск
+Russia,2024,Люди года,2,Владимир Путин
+Russia,2024,Люди года,3,Грета Тунберг
+Russia,2024,Люди года,4,Тейлор Свифт
+Russia,2024,Люди года,5,Масляков
+Russia,2024,Люди года,6,Ольга Бузова
+Russia,2024,Люди года,7,Макрон
+Russia,2024,Люди года,8,Зеленский
+Russia,2024,Наука,1,искусственный интеллект
+Russia,2024,Наука,2,нейросеть
+Russia,2024,Наука,3,квантовый компьютер
+Russia,2024,Наука,4,экология
+Russia,2024,Наука,5,робототехника
+Russia,2024,Наука,6,астрофизика
+Russia,2024,Наука,7,гравитация
+Russia,2024,Наука,8,молекула
+Russia,2024,Мультфильмы,1,Шрек
+Russia,2024,Мультфильмы,2,Мадагаскар
+Russia,2024,Мультфильмы,3,Головоломка
+Russia,2024,Мультфильмы,4,Миньоны
+Russia,2024,Мультфильмы,5,Тайна Коко
+Russia,2024,Мультфильмы,6,Маша и Медведь
+Russia,2024,Мультфильмы,7,Фиксики
+Russia,2024,Мультфильмы,8,Барбоскины
+Russia,2024,Языки программирования,1,Python
+Russia,2024,Языки программирования,2,JavaScript
+Russia,2024,Языки программирования,3,Java
+Russia,2024,Языки программирования,4,C++
+Russia,2024,Языки программирования,5,C#
+Russia,2024,Языки программирования,6,Rust
+Russia,2024,Языки программирования,7,PHP
+Russia,2024,Языки программирования,8,Go
+Russia,2024,Компании,1,Яндекс
+Russia,2024,Компании,2,Сбер
+Russia,2024,Компании,3,Газпром
+Russia,2024,Компании,4,РЖД
+Russia,2024,Компании,5,Ozon
+Russia,2024,Компании,6,Wildberries
+Russia,2024,Компании,7,VK
+Russia,2024,Компании,8,Лукойл
+Russia,2024,IT,1,чатгпт
+Russia,2024,IT,2,облачные технологии
+Russia,2024,IT,3,блокчейн
+Russia,2024,IT,4,API
+Russia,2024,IT,5,UI/UX
+Russia,2024,IT,6,frontend
+Russia,2024,IT,7,backend
+Russia,2024,IT,8,DevOps
+Russia,2024,События,1,новый год
+Russia,2024,События,2,чемпионат мира
+Russia,2024,События,3,парад победы
+Russia,2024,События,4,день города
+Russia,2024,События,5,Евровидение
+Russia,2024,События,6,Оскар
+Russia,2024,События,7,выборы
+Russia,2024,События,8,пандемия
+Russia,2024,Самые быстро растущие запросы года,1,чатгпт
+Russia,2024,Самые быстро растущие запросы года,2,Барби
+Russia,2024,Самые быстро растущие запросы года,3,Оппенгеймер
+Russia,2024,Самые быстро растущие запросы года,4,СВО
+Russia,2024,Самые быстро растущие запросы года,5,инфляция
+Russia,2024,Самые быстро растущие запросы года,6,Z-смена
+Russia,2024,Самые быстро растущие запросы года,7,Байден
+Russia,2024,Самые быстро растущие запросы года,8,ЕГЭ 2024
+Russia,2024,Еда и напитки,1,пицца
+Russia,2024,Еда и напитки,2,суши
+Russia,2024,Еда и напитки,3,бургер
+Russia,2024,Еда и напитки,4,борщ
+Russia,2024,Еда и напитки,5,кофе
+Russia,2024,Еда и напитки,6,чай
+Russia,2024,Еда и напитки,7,картошка
+Russia,2024,Еда и напитки,8,пельмени
+Russia,2024,Олимпийцы/спортсмены,1,Медведев
+Russia,2024,Олимпийцы/спортсмены,2,Щербакова
+Russia,2024,Олимпийцы/спортсмены,3,Большунов
+Russia,2024,Олимпийцы/спортсмены,4,Хачанов
+Russia,2024,Олимпийцы/спортсмены,5,Загитова
+Russia,2024,Олимпийцы/спортсмены,6,Овечкин
+Russia,2024,Олимпийцы/спортсмены,7,Косторная
+Russia,2024,Олимпийцы/спортсмены,8,Дзюба
+Russia,2024,Песни,1,Моя голова винтом
+Russia,2024,Песни,2,Комета
+Russia,2024,Песни,3,Война
+Russia,2024,Песни,4,Любимка
+Russia,2024,Песни,5,Розовое вино
+Russia,2024,Песни,6,Под фонарём
+Russia,2024,Песни,7,Звезда
+Russia,2024,Песни,8,Девочка танцуй
+Russia,2024,Мемы,1,ждун
+Russia,2024,Мемы,2,чебурек
+Russia,2024,Мемы,3,кот в тапках
+Russia,2024,Мемы,4,пельмени в кармане
+Russia,2024,Мемы,5,грустный Хаги Ваги
+Russia,2024,Мемы,6,почему он так сказал
+Russia,2024,Мемы,7,я в шоке
+Russia,2024,Мемы,8,черепашка
+Russia,2024,Электроника,1,iPhone
+Russia,2024,Электроника,2,Samsung Galaxy
+Russia,2024,Электроника,3,Xiaomi
+Russia,2024,Электроника,4,наушники
+Russia,2024,Электроника,5,планшет
+Russia,2024,Электроника,6,MacBook
+Russia,2024,Электроника,7,роутер
+Russia,2024,Электроника,8,PlayStation
+Russia,2024,Достопримечательности,1,Эрмитаж
+Russia,2024,Достопримечательности,2,Красная площадь
+Russia,2024,Достопримечательности,3,Кремль
+Russia,2024,Достопримечательности,4,Останкинская башня
+Russia,2024,Достопримечательности,5,Петропавловская крепость
+Russia,2024,Достопримечательности,6,Царицыно
+Russia,2024,Достопримечательности,7,Арбат
+Russia,2024,Достопримечательности,8,Кижи
+Russia,2024,Книги,1,Гарри Поттер
+Russia,2024,Книги,2,Мастер и Маргарита
+Russia,2024,Книги,3,Три товарища
+Russia,2024,Книги,4,451 градус
+Russia,2024,Книги,5,Анна Каренина
+Russia,2024,Книги,6,Унесённые ветром
+Russia,2024,Книги,7,Над пропастью во ржи
+Russia,2024,Книги,8,Война и мир
+Russia,2024,Как правильно...? (ЗОЖ),1,как правильно питаться
+Russia,2024,Как правильно...? (ЗОЖ),2,как начать бегать
+Russia,2024,Как правильно...? (ЗОЖ),3,как похудеть
+Russia,2024,Как правильно...? (ЗОЖ),4,как высыпаться
+Russia,2024,Как правильно...? (ЗОЖ),5,как бросить курить
+Russia,2024,Как правильно...? (ЗОЖ),6,как накачать пресс
+Russia,2024,Как правильно...? (ЗОЖ),7,как пить воду
+Russia,2024,Как правильно...? (ЗОЖ),8,как считать калории
+Russia,2024,Инфлюенсеры и блогеры,1,Дудь
+Russia,2024,Инфлюенсеры и блогеры,2,Настя Ивлеева
+Russia,2024,Инфлюенсеры и блогеры,3,Хованский
+Russia,2024,Инфлюенсеры и блогеры,4,Мармок
+Russia,2024,Инфлюенсеры и блогеры,5,Wylsacom
+Russia,2024,Инфлюенсеры и блогеры,6,Катя Адушкина
+Russia,2024,Инфлюенсеры и блогеры,7,Саша Спилберг
+Russia,2024,Инфлюенсеры и блогеры,8,Ксения Собчак
+Russia,2024,Инфлюенсеры и блогеры,9,Николай Соболев
+Russia,2024,Инфлюенсеры и блогеры,10,Юлия Пушман
+Russia,2024,Актёры и актрисы,1,Сергей Безруков
+Russia,2024,Актёры и актрисы,2,Павел Прилучный
+Russia,2024,Актёры и актрисы,3,Кристина Асмус
+Russia,2024,Актёры и актрисы,4,Данила Козловский
+Russia,2024,Актёры и актрисы,5,Юлия Снигирь
+Russia,2024,Актёры и актрисы,6,Александр Петров
+Russia,2024,Актёры и актрисы,7,Светлана Ходченкова
+Russia,2024,Актёры и актрисы,8,Константин Хабенский
+Russia,2024,Писатели и поэты,1,Пушкин
+Russia,2024,Писатели и поэты,2,Лермонтов
+Russia,2024,Писатели и поэты,3,Есенин
+Russia,2024,Писатели и поэты,4,Маяковский
+Russia,2024,Писатели и поэты,5,Ахматова
+Russia,2024,Писатели и поэты,6,Булгаков
+Russia,2024,Писатели и поэты,7,Тургенев
+Russia,2024,Писатели и поэты,8,Чехов
+Russia,2024,Писатели и поэты,9,Достоевский
+Russia,2024,Писатели и поэты,10,Толстой
+Russia,2024,Интеллектуальные вопросы,1,самая длинная река
+Russia,2024,Интеллектуальные вопросы,2,самая высокая гора
+Russia,2024,Интеллектуальные вопросы,3,столица Бразилии
+Russia,2024,Интеллектуальные вопросы,4,формула воды
+Russia,2024,Интеллектуальные вопросы,5,гипотенуза
+Russia,2024,Интеллектуальные вопросы,6,состав воздуха
+Russia,2024,Интеллектуальные вопросы,7,сила тяжести
+Russia,2024,Интеллектуальные вопросы,8,кто открыл Америку
+Russia,2024,Изобретения и открытия,1,изобретение колеса
+Russia,2024,Изобретения и открытия,2,изобретение телефона
+Russia,2024,Изобретения и открытия,3,открытие радиации
+Russia,2024,Изобретения и открытия,4,первый полёт
+Russia,2024,Изобретения и открытия,5,печатный станок
+Russia,2024,Изобретения и открытия,6,электричество
+Russia,2024,Изобретения и открытия,7,лампочка
+Russia,2024,Изобретения и открытия,8,интернет
+Russia,2024,Товары для дома,1,утюг
+Russia,2024,Товары для дома,2,пылесос
+Russia,2024,Товары для дома,3,микроволновка
+Russia,2024,Товары для дома,4,диван
+Russia,2024,Товары для дома,5,шкаф
+Russia,2024,Товары для дома,6,лампа
+Russia,2024,Товары для дома,7,посудомойка
+Russia,2024,Товары для дома,8,часы настенные
+Russia,2024,Ремонт и стройка,1,обои
+Russia,2024,Ремонт и стройка,2,плитка
+Russia,2024,Ремонт и стройка,3,ламинат
+Russia,2024,Ремонт и стройка,4,инструменты
+Russia,2024,Ремонт и стройка,5,шуруповёрт
+Russia,2024,Ремонт и стройка,6,перфоратор
+Russia,2024,Ремонт и стройка,7,уровень строительный
+Russia,2024,Ремонт и стройка,8,гипсокартон
+Russia,2024,Психология,1,депрессия
+Russia,2024,Психология,2,тревожность
+Russia,2024,Психология,3,стресс
+Russia,2024,Психология,4,как стать уверенным
+Russia,2024,Психология,5,самооценка
+Russia,2024,Психология,6,эмпатия
+Russia,2024,Психология,7,психолог
+Russia,2024,Психология,8,отношения
+Russia,2024,Саморазвитие,1,тайм-менеджмент
+Russia,2024,Саморазвитие,2,мотивация
+Russia,2024,Саморазвитие,3,как стать лучше
+Russia,2024,Саморазвитие,4,утренние привычки
+Russia,2024,Саморазвитие,5,самодисциплина
+Russia,2024,Саморазвитие,6,планирование
+Russia,2024,Саморазвитие,7,чтение книг
+Russia,2024,Саморазвитие,8,развитие памяти
+Russia,2024,Криптовалюта,1,биткоин
+Russia,2024,Криптовалюта,2,эфириум
+Russia,2024,Криптовалюта,3,как купить крипту
+Russia,2024,Криптовалюта,4,криптокошелёк
+Russia,2024,Криптовалюта,5,NFT
+Russia,2024,Криптовалюта,6,биржа Binance
+Russia,2024,Криптовалюта,7,трейдинг
+Russia,2024,Криптовалюта,8,токены
+Russia,2024,Автомобили,1,Лада Веста
+Russia,2024,Автомобили,2,Toyota Camry
+Russia,2024,Автомобили,3,BMW X5
+Russia,2024,Автомобили,4,какой авто выбрать
+Russia,2024,Автомобили,5,электромобиль
+Russia,2024,Автомобили,6,зарядка для авто
+Russia,2024,Автомобили,7,автосервис
+Russia,2024,Автомобили,8,страховка ОСАГО
+Russia,2024,Имя для ребёнка,1,имя для девочки
+Russia,2024,Имя для ребёнка,2,имя для мальчика
+Russia,2024,Имя для ребёнка,3,популярные имена
+Russia,2024,Имя для ребёнка,4,редкие имена
+Russia,2024,Имя для ребёнка,5,красивые имена
+Russia,2024,Имя для ребёнка,6,значение имени
+Russia,2024,Имя для ребёнка,7,имя в честь бабушки
+Russia,2024,Имя для ребёнка,8,славянские имена
+Russia,2024,Школа и родители,1,дневник
+Russia,2024,Школа и родители,2,родительское собрание
+Russia,2024,Школа и родители,3,учебник
+Russia,2024,Школа и родители,4,портфель
+Russia,2024,Школа и родители,5,домашнее задание
+Russia,2024,Школа и родители,6,второй класс
+Russia,2024,Школа и родители,7,учительница
+Russia,2024,Школа и родители,8,первое сентября
+Russia,2024,Зимние запросы,1,каток
+Russia,2024,Зимние запросы,2,санки
+Russia,2024,Зимние запросы,3,новогодние украшения
+Russia,2024,Зимние запросы,4,ёлка
+Russia,2024,Зимние запросы,5,гирлянда
+Russia,2024,Зимние запросы,6,зимняя куртка
+Russia,2024,Зимние запросы,7,подарки
+Russia,2024,Зимние запросы,8,снегурочка
+Russia,2024,Летние запросы,1,пляж
+Russia,2024,Летние запросы,2,шезлонг
+Russia,2024,Летние запросы,3,где отдохнуть
+Russia,2024,Летние запросы,4,купальник
+Russia,2024,Летние запросы,5,плавание
+Russia,2024,Летние запросы,6,летний лагерь
+Russia,2024,Летние запросы,7,морозиво
+Russia,2024,Летние запросы,8,велопрогулка
+Russia,2024,YouTube-запросы,1,топ 10 фильмов
+Russia,2024,YouTube-запросы,2,рецепт пиццы
+Russia,2024,YouTube-запросы,3,музыка 2024
+Russia,2024,YouTube-запросы,4,ASMR
+Russia,2024,YouTube-запросы,5,летсплей
+Russia,2024,YouTube-запросы,6,реакции
+Russia,2024,YouTube-запросы,7,интервью
+Russia,2024,YouTube-запросы,8,уроки макияжа
+Russia,2024,Что это значит...?,1,что такое NFT
+Russia,2024,Что это значит...?,2,что значит кринж
+Russia,2024,Что это значит...?,3,что значит краш
+Russia,2024,Что это значит...?,4,что значит симп
+Russia,2024,Что это значит...?,5,что такое веб 3.0
+Russia,2024,Что это значит...?,6,что такое рофл
+Russia,2024,Что это значит...?,7,что значит чиллить
+Russia,2024,Что это значит...?,8,что значит вайб
+Russia,2024,Тренды TikTok,1,танец под музыку
+Russia,2024,Тренды TikTok,2,рекомендации
+Russia,2024,Тренды TikTok,3,тренд недели
+Russia,2024,Тренды TikTok,4,челлендж
+Russia,2024,Тренды TikTok,5,капибара
+Russia,2024,Тренды TikTok,6,мейкап
+Russia,2024,Тренды TikTok,7,переходы
+Russia,2024,Тренды TikTok,8,монтаж в tiktok
+Russia,2024,Сравнения,1,iPhone vs Samsung
+Russia,2024,Сравнения,2,Python vs Java
+Russia,2024,Сравнения,3,Mac vs Windows
+Russia,2024,Сравнения,4,Instagram vs TikTok
+Russia,2024,Сравнения,5,Pepsi vs Cola
+Russia,2024,Сравнения,6,DSLR vs смартфон
+Russia,2024,Сравнения,7,телеграм vs ватсап
+Russia,2024,Сравнения,8,бензин vs электрокар
+Russia,2024,Запросы на грани (безопасные),1,почему я устал
+Russia,2024,Запросы на грани (безопасные),2,почему всё бесит
+Russia,2024,Запросы на грани (безопасные),3,почему я не высыпаюсь
+Russia,2024,Запросы на грани (безопасные),4,можно ли не идти на работу
+Russia,2024,Запросы на грани (безопасные),5,"как понять, что меня уволят"
+Russia,2024,Запросы на грани (безопасные),6,почему ничего не хочется
+Russia,2024,Запросы на грани (безопасные),7,"что делать, если тревожно"
+Russia,2024,Запросы на грани (безопасные),8,почему никто не звонит
+Russia,2024,Что бесит людей,1,очередь в поликлинике
+Russia,2024,Что бесит людей,2,медленный интернет
+Russia,2024,Что бесит людей,3,тормозит ноутбук
+Russia,2024,Что бесит людей,4,плохая погода
+Russia,2024,Что бесит людей,5,пробки
+Russia,2024,Что бесит людей,6,шумные соседи
+Russia,2024,Что бесит людей,7,комары
+Russia,2024,Что бесит людей,8,медленный лифт
