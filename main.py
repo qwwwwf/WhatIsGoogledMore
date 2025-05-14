@@ -26,7 +26,7 @@ api.add_resource(UserResource, '/api/users/<user_id>/<action>')
 api.add_resource(TrendResource, '/api/trend')
 
 # Database init
-db_session.global_init('db/data.db')
+db_session.global_init('data/data.db')
 
 # Login manager init
 login_manager = LoginManager()
@@ -42,6 +42,9 @@ def load_user(user_id):
 @app.route('/logout')
 @login_required
 def logout():
+    if not current_user.is_authenticated:
+        return redirect('/')
+
     logout_user()
     return redirect('/')
 
@@ -54,6 +57,9 @@ def index_route():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login_route():
+    if current_user.is_authenticated:
+        return redirect('/')
+
     form = LoginForm()
     if form.validate_on_submit():
         db_sess = db_session.create_session()
@@ -70,6 +76,9 @@ def login_route():
 
 @app.route('/register', methods=['GET', 'POST'])
 def register_route():
+    if current_user.is_authenticated:
+        return redirect('/')
+
     form = RegisterForm()
     if form.validate_on_submit():
         if form.password.data != form.password_again.data:
@@ -98,6 +107,9 @@ def register_route():
 
 @app.route('/profile', methods=['GET', 'POST'])
 def profile_route():
+    if not current_user.is_authenticated:
+        return redirect('/')
+
     games_data = []
 
     for game in current_user.games:
@@ -112,6 +124,9 @@ def profile_route():
 
 @app.route('/top', methods=['GET', 'POST'])
 def top_route():
+    if not current_user.is_authenticated:
+        return redirect('/')
+
     db_sess = db_session.create_session()
     users = db_sess.query(User).order_by(User.stars.desc()).limit(15)
     top_data = []
@@ -130,6 +145,9 @@ def top_route():
 
 @app.route('/exchange', methods=['GET', 'POST'])
 def exchange_route():
+    if not current_user.is_authenticated:
+        return redirect('/')
+
     return render_template(
         'exchange.html',
         exchange_history=current_user.exchange_history['exchanges'],
@@ -138,6 +156,9 @@ def exchange_route():
 
 @app.route('/play', methods=['GET', 'POST'])
 def play_route():
+    if not current_user.is_authenticated:
+        return redirect('/')
+
     return render_template('game.html')
 
 
